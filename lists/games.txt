@@ -1,3 +1,4 @@
+6spiele.de
 ad-freegames.github.io
 addictinggames.com
 agame.com
@@ -29,6 +30,7 @@ doodlegames.org
 eaglercraft.com
 en.gameslol.net
 flashlegacy.com
+flashmuseum.org
 flipline.com
 fossbytes.com
 frivez.com
@@ -46,6 +48,7 @@ gamesgames.com
 gamingscan.com
 garticphone.com
 giantbomb.com
+gry.boxheadx.com
 gs2play.com
 gulper.io
 handdrawngames.com
@@ -122,6 +125,7 @@ speedrun.com
 spielaffe.de
 spiele-kostenlos-online.de
 spiele-umsonst.de
+spiele.boxheadx.com
 spiele101.de
 spiele123.com
 spieleaffe.org
@@ -140,6 +144,7 @@ tvtropes.org
 twoplayergames.org
 ucbg.github.io
 unblocked-games.org
+unblocked66world.com
 unblockedgame67.github.io
 universe.flyff.com
 warbrokers.io
@@ -152,6 +157,7 @@ www.addictinggames.com
 www.agame.com
 www.arkadium.com
 www.bloonswiki.com
+www.boxheadx.com
 www.brightestgames.com
 www.browsergame-base.de
 www.browsergames.de
@@ -162,12 +168,14 @@ www.casino.org
 www.casinoonline.de
 www.cooljuegos.com
 www.crazygames.com
+www.crazymonkeygames.com
 www.creeptd.com
 www.flashlegacy.com
 www.flipline.com
 www.funnygames.eu
 www.gameflare.com
 www.gamenora.com
+www.gamepad-gurus.de
 www.gamepur.com
 www.gamerbolt.com
 www.gamesgames.com
@@ -181,7 +189,9 @@ www.kongregate.com
 www.legale-online-casinos.de
 www.linerider.com
 www.mahjongfun.com
+www.maxgames.com
 www.metacritic.com
+www.minijuegos.com
 www.miniplay.com
 www.mmobomb.com
 www.mobygames.com
@@ -208,6 +218,7 @@ www.snakegame.net
 www.snokido.com
 www.speedrun.com
 www.spielaffe.de
+www.spiele-7.de
 www.spiele-kostenlos-online.de
 www.spiele-umsonst.de
 www.spiele123.com
@@ -219,6 +230,7 @@ www.thegamer.com
 www.topbrowsergames.de
 www.tower-defense.net
 www.twoplayergames.org
+www.unblockedgame.io
 www.webmulator.com
 www.wettbasis.com
 www.y8.com
