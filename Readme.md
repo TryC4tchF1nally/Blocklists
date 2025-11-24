@@ -1,6 +1,6 @@
-# Pi-Hole-Blocklists
+# Blocklists
 
-A collection of custom Pi-hole blocklists designed to improve privacy, block unwanted content, and restrict access to specific categories of websites.
+A collection of custom blocklists (originally intended for Pi Hole) designed to improve privacy, block unwanted content, and restrict access to specific categories of websites.
 Each list focuses on a different purpose, giving you the flexibility to choose exactly what you want to block.
 
 ## License
