@@ -47,6 +47,11 @@ Blocks:
 This list aims to block domains that may pose a security threat, such as those known to distribute malware or engage in phishing attacks.
 Essential for enhancing security and protecting against malicious online activity.
 
+### miscellaneous.txt
+This list contains domains that are considered unwanted for various reasons, but not specifically for blocking ads, tracking, or phishing. It serves as a general filter for sites that may be perceived as distracting or unnecessary.
+
+Note that the domains included may vary in relevance depending on individual browsing habits and preferences.
+
 ### shopping.txt
 Blocks:
 - Unwanted Onlineshops
