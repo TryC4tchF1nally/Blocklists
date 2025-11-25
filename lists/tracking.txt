@@ -109,6 +109,7 @@ androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 anonym.data.funkedigital.de
 api-hub.samsungyosemite.com
+api.amplitude.com
 api.edgeoffer.microsoft.com
 api.glb.samsung-gamelauncher.com
 api.permutive.com
@@ -392,6 +393,7 @@ sqm.telemetry.microsoft.com.nsatc.net
 ssl.google-analytics.com
 stage.microsoft.net.daraz.com
 stageescortbabylon.samsungmobile.net.daraz.com
+static.cloudflareinsights.com
 statsfe1.ws.microsoft.com
 statsfe2.ws.microsoft.com
 stroeer01.webtrekk.net

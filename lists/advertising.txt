@@ -20932,6 +20932,7 @@ ineryield.jmp9.com
 infinitiheliosasia.demdex.net
 infinitiheliosemea.demdex.net
 info.as.criteo.com
+info.audiomee.de
 info.cn.criteo.com
 info.criteo.com
 info.eu.criteo.com
@@ -25807,6 +25808,7 @@ ww50.smartadserver.com
 ww55-eqx.smartadserver.com
 ww55-itx4.smartadserver.com
 ww55-itx5.smartadserver.com
+ww55.affinity.net
 ww55.smartadserver.com
 ww57.smartadserver.com
 ww58-eqx.smartadserver.com
