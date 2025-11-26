@@ -27,6 +27,8 @@ apodiscounter.de
 aponeo.de
 apotheke.com
 app.temu.com
+ar.shein.com
+at.shein.com
 beauty-aesthetic.de
 best.aliexpress.com
 bestsecret.ch
@@ -54,6 +56,7 @@ bonprix.si
 bonprix.sk
 brasil.aliexpress.com
 breuninger.com
+ch.shein.com
 corporate.docmorris.com
 corporate.zalando.com
 customerservice.aliexpress.com
@@ -69,6 +72,9 @@ en.aboutyou.de
 en.zalando.com
 en.zalando.de
 es.aliexpress.com
+es.shein.com
+euqs.shein.com
+eur.shein.com
 faq.cee.breuninger.com
 faq.eu.breuninger.com
 fr.aboutyou.be
@@ -77,6 +83,7 @@ fr.zalando.ch
 germany.aliexpress.com
 gfx.bonprix.ro
 gfx.bonprix.sk
+gutscheine.focus.de
 help.bestsecret.ch
 help.bestsecret.com
 help.bestsecret.fr
@@ -84,9 +91,11 @@ help.bestsecret.nl
 help.bestsecret.se
 hilfe.breuninger.com
 inbusiness.aliexpress.com
+it.shein.com
 jobs.bestsecret.com
 jobs.docmorris.com
 jobs.zalando.com
+jp.shein.com
 login.zalando.com
 m.aboutyou.cz
 m.aboutyou.de
@@ -96,6 +105,7 @@ m.aliexpress.com
 m.de.aliexpress.com
 m.shein.com
 medpex.de
+nl.shein.com
 onlineapotheke.wien
 order.retail.zalando.com
 otto.de
@@ -104,6 +114,7 @@ partner.zalando.com
 pt.aliexpress.com
 redcare-pharmacy.com
 report.docmorris.com
+roe.shein.com
 s1.shein.com
 shein.co.uk
 shein.com
@@ -117,6 +128,7 @@ super-internationalshipping.com
 support.docmorris.de
 temu.com
 us-aliexpress.com
+us.shein.com
 us.zalando.com
 vi.aliexpress.com
 w-htgb-a.net.b.zalando.com

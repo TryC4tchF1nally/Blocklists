@@ -2601,6 +2601,7 @@ activenetwork-d.openx.net
 ad-ace.doubleclick.net
 ad-ams5.mediaplex.com
 ad-apac.doubleclick.net
+ad-coupon.de
 ad-creatives-public.commondatastorage.googleapis.com
 ad-d.justpremium.com
 ad-dc6.mediaplex.com
@@ -16366,6 +16367,7 @@ analytics.permutive.com
 analytics.pinpoll.com
 analytics.pubmatic.com
 analytics.samsungknox.com
+analytics.thekrazycouponlady.com
 analytics.userreport.com
 analytics.virginmobileusa.com
 analytics20.kochava.com
@@ -17015,6 +17017,7 @@ banners97.hpg.com.br
 banners98.hpg.com.br
 banners99.hpg.com.br
 bannevs.ero-advertising.com
+banvoucher-vn.weeblysite.com
 banzai-d.openx.net
 bap.lijit.com
 bapi.userreport.com
@@ -17039,6 +17042,7 @@ bbnautid4.ibillboard.com
 bbszenede.widget.criteo.com
 bbva.demdex.net
 bc-ssb-iad.springserve.com
+bc.coupons.com
 bca.gbc.criteo.com
 bcb-beacon-nr.rubiconproject.com
 bcb.rubiconproject.com
@@ -17086,6 +17090,7 @@ bellca.demdex.net
 berater.adition.com
 bestbuy.demdex.net
 bestbuycanada.demdex.net
+bestonlinecoupons.com
 bet.demdex.net
 beta-api.pubmatic.com
 beta-jp.adlearnop.advertising.com
@@ -17913,9 +17918,22 @@ cotads.adscale.de
 count.yieldmo.com
 countcriteo.yieldmo.com
 counts.yieldlab.net
+coupon2buy.com
+couponchief.122.2o7.net
+couponcp-a.akamaihd.net
+couponcraze.com
+coupondiscounts.com
+coupondunia.go2cloud.org
+coupongifts.life
+coupons-inc.com
+coupons.bounceexchange.com
+coupons4humanity.go2cloud.org
+couponsjustin.ojrq.net
+coupontic.com
 cox-match.dotomi.com
 coxmediagroup-d.openx.net
 cp.adform.net
+cp.official-coupons.com
 cp5me8z9qu8eljvyulcxxe1lcntrx1516401361.nuid.imrworldwide.com
 cpa-paas.adcolony.com
 cpa.adcolony.com
@@ -18550,6 +18568,7 @@ ec183922-46b7-41fd-93b6-58af87e441b1.nuid.imrworldwide.com
 eckerlede.widget.criteo.com
 ecommerce-events.adscale.com
 econa.met.vgwort.de
+ecoupons.com
 ecs.demdex.net
 ed1w1gbcjxjteeae97mzhph5vr3jv1509531031.nuid.imrworldwide.com
 edc.adform.net
@@ -18651,6 +18670,7 @@ eq2l5q1jlcbdilvkzj6gyi7aovcwz1509908590.nuid.imrworldwide.com
 eqix-dc2.casalemedia.com
 eqix-ema-ny.casalemedia.com
 eqix-sv4.casalemedia.com
+equalvoucher.shop
 equibase-company-d.openx.net
 eqx-itx4.smartadserver.com
 eqx-secure.smartadserver.com
@@ -18676,6 +18696,7 @@ esi.amp.permutive.com
 esimedia-d.openx.net
 esp.rtbhouse.com
 espritde.widget.criteo.com
+essaycoupons.com
 et-cn.apac.gslb.inmobi.com
 et-cn.w.inmobi.com
 et-eus.w.inmobi.com
@@ -18783,6 +18804,7 @@ exch.quantserve.com
 exch.quantserve.comcontrol.kochava.com
 exchange.adyieldoptimizer.com
 exchange.inmobi.com
+exclusive-vouchers.com
 exelate-sync.dotomi.com
 exelatefr.widget.criteo.com
 exelator.com
@@ -19330,6 +19352,7 @@ files5.adform.net
 filestore.adition.com
 fim.adnxs.com
 finance.rubiconproject.com
+findcouponspromos.com
 findtravel-d.openx.net
 finn.demdex.net
 firebasedynamiclinks-ipv4.googleapis.com
@@ -19915,6 +19938,8 @@ fra98.ib.adnxs.com
 fra99.ib.adnxs.com
 franzisde.widget.criteo.com
 freecharge.demdex.net
+freecouponbiz.com
+freefuelcoupon.com
 freestar-d.openx.net
 friendscout24be.widget.criteo.com
 friferiedk.widget.criteo.com
@@ -20012,6 +20037,7 @@ gbc8.da.us.criteo.com
 gbk-d.openx.net
 gbpfcbrxzvmg9cr5vbx6a0lfv371y1510349881.nuid.imrworldwide.com
 gce-sc.bidswitch.net
+gcirm.customcoupon.com
 gcp-events.apester.com
 gd1.mookie1.com
 gd2.mookie1.com
@@ -20062,6 +20088,7 @@ gl.ads.justpremium.com
 glance-internal.inmobi.com
 glance.inmobi.com
 glance.l.inmobicdn.net
+glb-ads.coupons.adtechus.com
 global.adform.net
 global.imrworldwide.com
 global.load.exelator.com
@@ -20093,6 +20120,7 @@ go.pubmatic.com
 go.quantcast.com
 go.rubiconproject.com
 go.smartadserver.com
+go.vipcouponsdeals.com
 go1.aniview.com
 go1.ero-advertising.com
 go1.pubmatic.com
@@ -20215,6 +20243,7 @@ gt.ads.justpremium.com
 gtag.yieldoptimizer.com
 gtm.arrowplumbing.ca
 gtm.bagoff.it
+gtm.kfcgutscheine.de
 gtm.thiagofinch.com.br
 guac.adsrvr.org
 guanywrplh6ts5j5ocnuncf26jrgm1516630429.nuid.imrworldwide.com
@@ -20562,6 +20591,7 @@ ibv.lijit.com
 ic.de.inmobi.com
 ice.360yield.com
 icm.kochava.com
+icoupon.go2cloud.org
 id-gmtdmp.mookie1.com
 id.analytics.glance.inmobi.com
 id.api.glance.inmobi.com
@@ -21526,6 +21556,7 @@ ma3ix6ouzmkmwdwxhowpynku0kxk51515388361.nuid.imrworldwide.com
 mab.chartbeat.com
 macro.adnami.io
 macyscominc.demdex.net
+madnesscoupon.com
 mads-eu.amazon-adsystem.com
 mads-fe.amazon-adsystem.com
 mads.advertising.com
@@ -21790,6 +21821,7 @@ mojoworks.snv.mediaplex.com
 momondodk.widget.criteo.com
 momondofi.widget.criteo.com
 momondose.widget.criteo.com
+momovouchers.weebly.com
 mon24.l2pdus.mookie1.com
 monade.widget.criteo.com
 moneta.demdex.net
@@ -21883,6 +21915,7 @@ my.brightcove.com
 my.gmads.mookie1.com
 my.smaato.com
 mybb.ero-advertising.com
+mycoupons.com
 mydmp.exelator.com
 myfab.widget.criteo.com
 mymmsde.widget.criteo.com
@@ -22905,6 +22938,7 @@ play.showheroes.com
 play1.aniview.com
 playbill-d.openx.net
 player-feedback-v1.glomex.com
+player.1800coupon.com
 player.aniview.com
 player1.aniview.com
 players.api.brightcove.com
@@ -23353,6 +23387,7 @@ rdi.eu.criteo.com
 rdi.us.criteo.com
 readpeak.com
 reagroup-1.demdex.net
+realcouponnow.com
 realtime.connectad.io
 realtor-d.openx.net
 reaper.pulse.inmobi.com
@@ -24051,6 +24086,7 @@ sgtm.agofstore.com
 sgtm.altitudeclimbing.com
 sgtm.angularinmobiliario.co
 sgtm.bingoloco.com
+sgtm.fastcoupon.com.br
 sgtm.inmobiliario.npro21.org
 sgtm.inmobiliariolatam.com
 sh.cn.criteo.com
@@ -24173,6 +24209,7 @@ smetrics.abacusplumbing.net
 smetrics.bakerbrothersplumbing.com
 smetrics.binge.com.au
 smetrics.bingle.com.au
+smetrics.couponcabin.com
 smetrics.meccabingo.com
 smetrics.nexgenairandplumbing.com
 smetrics.plumbingtoday.biz
@@ -24360,6 +24397,7 @@ ssp-prod-telemerty-eastus-appgwv2.inmobi.com
 ssp.advertising.com
 ssp.api.tappx.com
 sspapi-prd.samsungrs.com
+sst.avgs-gutschein.de
 sst.brightcovers.com
 sstats.plumbing.com
 ssum-sec.casalemedia.com
@@ -24393,6 +24431,7 @@ stanfordhc-1.demdex.net
 stanza-d.openx.net
 stape.dileneebinger.com.br
 stape.inmobiliariaversatil.com
+stape.insulation-voucher.com
 stape.senseadvertising.com.au
 stape.turbo77pg.com
 star-advertising.com
@@ -24483,6 +24522,7 @@ status.pubmatic.com
 status.rubiconproject.com
 stayfriendsch.widget.criteo.com
 stayfriendsse.widget.criteo.com
+stbt.coupons.com
 steenbergen.web.ero-advertising.com
 stepstoneb2bbe.widget.criteo.com
 stepstonede.widget.criteo.com
@@ -24850,6 +24890,8 @@ tr.ads.justpremium.com
 tr.eyereturn.com
 tr.gmads.mookie1.com
 tr.pubnative.net
+trac.couponandgo.co.uk
+trac.couponandgo.com
 tracdelight.com
 tracdelight.io
 trace.bingoholiday.xyz
@@ -24862,6 +24904,7 @@ track.adtraction.com
 track.agentisplumbing.com
 track.aniview.com
 track.celtra.com
+track.coupongini.com
 track.loopme.me
 track.pubmatic.com
 track.seadform.net
@@ -24942,6 +24985,7 @@ triplelift.com
 triplelift.pxl.ace.advertising.com
 trivialturn.com
 trk-sha.adsrvr.org
+trk.boxcoupon.link
 trk.crispadvertising.com
 trk.dotomi.com
 trk.stroeermediabrands.de
@@ -24975,9 +25019,11 @@ tvspielfilm.cleverpush.com
 tw-gmtdmp.mookie1.com
 tw.gmads.mookie1.com
 twc.demdex.net
+twcouponcenter.com
 twentyfourhonlineadvertising-d.openx.net
 twentyfourhourcampfire-d.openx.net
 twiago.com
+twoj-voucher.com
 tx.group
 txsnb001.exelator.com
 ty9dudlgabrpob66kigq2byoc5kpu1507558080.nuid.imrworldwide.com
@@ -25477,6 +25523,8 @@ vodhaqaujopg.com
 voken.eyereturn.com
 vonagemarketingllc.demdex.net
 vonvonme-d.openx.net
+vouchercodes.co.uk.d1.sc.omtrdc.net
+vouchershares.pxf.io
 vox.amp.permutive.com
 voyage-group-d.openx.net
 voyagegroup-d.openx.net
@@ -26218,6 +26266,7 @@ zalandochde.widget.criteo.com
 zalandode.widget.criteo.com
 zap.mookie1.com
 zap2.mookie1.com
+zapcoupons-shopping.t.domdex.com
 zb5wybqr1jvgfqkoo3x06lknkawmp1516372140.nuid.imrworldwide.com
 zccqurskve8tqfhncowh712f34zuh1516627665.nuid.imrworldwide.com
 zdtl9z7cekzaqjbqhmukftuxthf2g1509524032.nuid.imrworldwide.com
