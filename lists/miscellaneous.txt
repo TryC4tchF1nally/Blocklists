@@ -1,4 +1,5 @@
 angebot.enpal.de
+artikel.enpal.de
 audibene.de
 audimee.com
 audiomee.at
@@ -18,7 +19,9 @@ limango.de
 shop.geers.de
 soloist.ai
 standorte.geers.de
+thermondo.de
 www.angebot.enpal.de
+www.artikel.enpal.de
 www.audibene.de
 www.audiomee.at
 www.consumertrusted.reviews
@@ -30,3 +33,4 @@ www.fgh-info.de
 www.geers.de
 www.guenstig-heizen.de
 www.limango.de
+www.thermondo.de

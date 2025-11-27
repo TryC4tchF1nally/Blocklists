@@ -125,6 +125,7 @@ gulper.io
 handdrawngames.com
 heavy.com
 hero-wars.com
+hero-wars.fandom.com
 hu-play.grepolis.com
 hu.grepolis.com
 hu25.grepolis.com

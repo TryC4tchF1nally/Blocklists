@@ -5470,7 +5470,7 @@ amazon-music-browser-home.skunkradioproductions.co.uk
 amazon-music-contest-ghali-live.com
 amazon-music-contest-onemoretime.com
 amazon-music-contest-thekolors.com
-amazon-music-converter.com
+amazon-music-hosts.com
 amazon-music-download.com
 amazon-music-downloader.com
 amazon-music-downloader.net
