@@ -22044,6 +22044,7 @@ meta.exelator.com
 meta.openx.net
 metacafe-d.openx.net
 metadsp-api.onetag.com
+metatrckpixel.com
 metrics-collector-global-accelerator.s-onetag.com
 metrics-collector.s-onetag.com
 metrics.adobe.nb.com
@@ -24610,6 +24611,7 @@ smartclip.net
 smartstream.tv
 smarttag.rubiconproject.com
 smarttravel-d.openx.net
+smetric.ads.microsoft.com
 smetrics.abacusplumbing.com
 smetrics.abacusplumbing.net
 smetrics.bakerbrothersplumbing.com

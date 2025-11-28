@@ -5470,7 +5470,7 @@ amazon-music-browser-home.skunkradioproductions.co.uk
 amazon-music-contest-ghali-live.com
 amazon-music-contest-onemoretime.com
 amazon-music-contest-thekolors.com
-amazon-music-hosts.com
+amazon-music-converter.com
 amazon-music-download.com
 amazon-music-downloader.com
 amazon-music-downloader.net
@@ -5482,6 +5482,7 @@ amazon-music-flat.upticker.de
 amazon-music-france.skunkradioproductions.co.uk
 amazon-music-free.skunkradioproductions.co.uk
 amazon-music-halsey-live.artcardetail.com
+amazon-music-hosts.com
 amazon-music-lg-2.weade.co
 amazon-music-mit-prime.neoko.de
 amazon-music-on-demand.skunkradioproductions.co.uk

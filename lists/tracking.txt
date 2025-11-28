@@ -1407,6 +1407,17 @@ partnerad.l.google.com
 pg.com
 pinpoll.com
 pixanalytics.pixnet.net
+pixel-static.spotify.com
+pixel-tracker.com
+pixel.ad
+pixel.augsburger-allgemeine.de
+pixel.facebook.com
+pixel.ionos.com
+pixel.ionos.de
+pixel.ionos.fr
+pixel.reddit.com
+pixel.redditmedia.com
+pixel.spotify.com
 pks-analytics.raenonx.cc
 plbusiness.samsung.com
 prd.sca.samsung.com
