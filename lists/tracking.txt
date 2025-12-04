@@ -209,6 +209,7 @@ amazonservicesllc.tt.omtrdc.net
 amazonshopbop.122.2o7.net
 amazonwebservicesinc.tt.omtrdc.net
 amazonwebstore.122.2o7.net
+amplifypixel.outbrain.com
 ams-pageview-public.s3.amazonaws.com
 analytic-client.adult-chess.com
 analytic-client.blitzmightyparty.com
@@ -1064,6 +1065,8 @@ cert-test.sandbox.google.com
 cf-pixelfront-analytics.widencdn.net
 chanalytics.merchantadvantage.com
 channelusa.samsung.com
+chartbeat.com
+chartbeat.net
 cimage.adobe.com
 clarity.ms
 clickanalytics208.com
@@ -1269,6 +1272,7 @@ log-config.samsungacr.com
 log-ingestion-eu.samsungacr.com
 log-ingestion-sa.samsungacr.com
 log-ingestion.samsungacr.com
+log.outbrain.com
 logicanalytics.io
 lp.americas.business.samsung.com
 lp.apac.business.samsung.com
@@ -1399,6 +1403,8 @@ osb-apps-v2.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-krsvc.samsungqbe.com
 osb.samsungqbe.com
+outbrain.com
+outbrainimg.com
 p-cg64-slinganalytics.movetv.com
 pagead.l.google.com
 pages.amazonpayments.com
@@ -1790,6 +1796,8 @@ sstats.adobe.com
 sstatstest.adobe.com
 stage.microsoft.net.daraz.com
 stageescortbabylon.samsungmobile.net.daraz.com
+stas.outbrain.com
+static.chartbeat.com
 static.cloudflareinsights.com
 static.criteo.net
 stats.adobe.com
@@ -1829,6 +1837,7 @@ tilanalytics.timesinternet.in
 toluna-analytics.com
 toolboxadobe.inter-ikea.com
 topaz-analytics.com
+tr.outbrain.com
 tracking.americas.business.samsung.com
 tracking.apac.business.samsung.com
 tracking.dealeranalytics.com
@@ -1870,6 +1879,7 @@ vibrantmedia.com
 video-ad-stats.googlesyndication.com
 video-analytics-api.cloudinary.com
 video-stats.video.google.com
+videoevents.outbrain.com
 visitor-analytics.io
 vk-analytics.ru
 vkanalytics.net
@@ -1907,6 +1917,7 @@ whatif.fr.adobe.com
 whatif.it.adobe.com
 whatif.nl.adobe.com
 whyanalytics.com
+widget-pixels.outbrain.com
 widgets.outbrain.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com

@@ -5,6 +5,8 @@
 3d-games-convention.com
 60freegames.de
 6spiele.de
+accounts.gtarcade.com
+acct.gtarcade.com
 ad-freegames.github.io
 addictinggames.com
 agame.com
@@ -43,6 +45,7 @@ casino.com
 casino.org
 casinoonline.de
 chromedino.com
+clientweb.gtarcade.com
 cooljuegos.com
 crazygames-poki.com
 crazygames.com
@@ -76,6 +79,7 @@ de89.grepolis.com
 desktop-tower-defense-defence-hard-strategy-game.en.softonic.com
 doodlegames.org
 eaglercraft.com
+echocalypseglobal.gtarcade.com
 elvenar-fan-forum.de
 en-play.elvenar.com
 en.elvenar.com
@@ -95,6 +99,7 @@ flashlegacy.com
 flashmuseum.org
 flipline.com
 forum.de.forgeofempires.com
+forum.gtarcade.com
 fossbytes.com
 fr-play.grepolis.com
 fr.cdn.grepolis.com
@@ -110,6 +115,7 @@ gameforge.com
 gamejolt.com
 gameliebe.com
 gamenora.com
+gamepoint.com
 gamepur.com
 gamerant.com
 gamerbolt.com
@@ -117,12 +123,15 @@ games.focus.de
 games.hamburg.de
 games.web.de
 gamesgames.com
+gamesv2.gtarcade.com
 gamingscan.com
 garticphone.com
 gdz.bplaced.net
 giantbomb.com
+got.gtarcade.com
 gry.boxheadx.com
 gs2play.com
+gtarcade.com
 gulper.io
 handdrawngames.com
 heavy.com
@@ -132,6 +141,7 @@ hilfe.panzerrush.com
 hu-play.grepolis.com
 hu.grepolis.com
 hu25.grepolis.com
+infinitykingdom.gtarcade.com
 it29.grepolis.com
 it35.grepolis.com
 it38.grepolis.com
@@ -155,6 +165,10 @@ lagged.com
 legale-online-casinos.de
 linerider.com
 linerider.io
+loa.gtarcade.com
+loa2.gtarcade.com
+loahf.gtarcade.com
+m.gtarcade.com
 mahjongfun.com
 metacritic.com
 minesweeper-online.co
@@ -172,6 +186,7 @@ mmobomb.com
 mmommorpg.de
 mobygames.com
 morterra.com
+mulegend.gtarcade.com
 n10.en3.grepolis.com
 newgrounds.com
 ninjakiwi.com
@@ -187,6 +202,7 @@ onlinecasinosdeutschland.com
 onlinegamblingme.com
 onlinegames.io
 onlinespielcasino.de
+osact.gtarcade.com
 pacogames.com
 panzerrush.com
 parade.com
@@ -215,6 +231,7 @@ pocket-lint.com
 pogo.com
 poki.com
 poki.us.com
+profile.gtarcade.com
 prosiebengames.de
 protondb.com
 pt-play.grepolis.com
@@ -286,6 +303,8 @@ us-play.grepolis.com
 us.elvenar.com
 us0.grepolis.com
 us8.elvenar.com
+v3m.gtarcade.com
+v4m-ultra.gtarcade.com
 warbrokers.io
 warthunder.com
 webgamer.io
@@ -330,12 +349,14 @@ www.gameflare.com
 www.gameliebe.com
 www.gamenora.com
 www.gamepad-gurus.de
+www.gamepoint.com
 www.gamepur.com
 www.gamerbolt.com
 www.gamesgames.com
 www.gamingscan.com
 www.gdz.bplaced.net
 www.giantbomb.com
+www.gtarcade.com
 www.handdrawngames.com
 www.hero-wars.com
 www.jetztspielen.de
