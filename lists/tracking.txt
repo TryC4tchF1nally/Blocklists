@@ -2,6 +2,7 @@
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 a8.xn--google-873exa8m6161dbbyb.net
 aanalytics.adelaide.edu.au
+aanalytics.panduit.com
 aax-dtb-cf.amazon-adsystem.amazon.com
 aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 aax-eu-retail-direct.dub.amazon.com
@@ -203,6 +204,7 @@ amazon-email.branch.rocks
 amazonfreight.tt.omtrdc.net
 amazonhrhvh.112.2o7.net
 amazonhrhvhuat.112.2o7.net
+amazonmcf.tt.omtrdc.net
 amazonmerchants.122.2o7.net
 amazonservices.122.2o7.net
 amazonservicesllc.tt.omtrdc.net
@@ -695,6 +697,7 @@ analytics.pagefly.io
 analytics.palitra.ge
 analytics.pangle-ads.com
 analytics.partcommunity.com
+analytics.passes.com
 analytics.pgatour.com
 analytics.pgncs.notion.so
 analytics.phn.com
@@ -989,6 +992,7 @@ analyticsmsp.com
 analyticsnarc.ro.ing.net
 analyticsnossl.forcepoint.com
 analyticspixel.microsoft.com
+analyticsplusdev.clientify.net
 analyticsresults.bildungsforum.datev.de
 analyticsresults.datev-karriereblog.de
 analyticsresults.datev-magazin.de
@@ -1053,6 +1057,7 @@ browser.pipe.aria.microsoft.com
 bugsnag.shopbop.amazon.dev
 business.samsungusa.com
 ca.telemetry.microsoft.com
+cab-email-analytics.gbc.criteo.com
 campaign.adobe.com
 canddianalytics.com
 carburanalyticsspace.carte-gr.total.fr
@@ -1165,6 +1170,7 @@ eo.business.samsung.com
 error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
 error-tracking.reddit.com
+essential-apps-analytics.herokuapp.com
 eu-mobile.events.data.microsoft.com
 eu.business.samsung.com
 event-analytics-backend.skyeng.ru
@@ -1500,12 +1506,14 @@ samsungeucdm.tt.omtrdc.net
 samsungfrance.tt.omtrdc.net
 samsunggermany.tt.omtrdc.net
 samsungkorea.tt.omtrdc.net
+samsunglatam.tt.omtrdc.net
 samsungmena.tt.omtrdc.net
 samsungmobile.net.daraz.com
 samsungmobile.stageobong.net.daraz.com
 samsungqbe.com
 samsungrm.net
 samsungseao.tt.omtrdc.net
+samsungsiel.tt.omtrdc.net
 samsungturkey.tt.omtrdc.net
 samsunguk.tt.omtrdc.net
 sanalytics.adobe.tp.gskpro.com
@@ -1945,6 +1953,7 @@ www.freight-amazon.com
 www.googleadservices.com
 www.lead-analytics-1000.com
 www.pg.com
+www.samsungotn.net
 www.samsungrm.net
 www.trackonomics.net
 www.transmatico.com

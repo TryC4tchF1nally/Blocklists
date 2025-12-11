@@ -3037,6 +3037,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 aamazonviewss.cc
 0.0.0.0 aamazonworkapp.cc
 0.0.0.0 aanalytics.adelaide.edu.au
+0.0.0.0 aanalytics.panduit.com
 0.0.0.0 aaoozzamazon.datnenmyphuoc24h.com
 0.0.0.0 aapp-amazon.ezua.com
 0.0.0.0 aaps-amazonser-cu3attoiwq.dub.beta.hex.a2z.com
@@ -54842,6 +54843,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazonmc.pages.dev
 0.0.0.0 amazonmca.com
 0.0.0.0 amazonmcf.dashboardlink.com
+0.0.0.0 amazonmcf.tt.omtrdc.net
 0.0.0.0 amazonmcf.webbeeglobal.com
 0.0.0.0 amazonmckj001.com
 0.0.0.0 amazonmclaren.com
@@ -66273,6 +66275,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.palitra.ge
 0.0.0.0 analytics.pangle-ads.com
 0.0.0.0 analytics.partcommunity.com
+0.0.0.0 analytics.passes.com
 0.0.0.0 analytics.permutive.com
 0.0.0.0 analytics.pgatour.com
 0.0.0.0 analytics.pgncs.notion.so
@@ -66574,6 +66577,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analyticsnarc.ro.ing.net
 0.0.0.0 analyticsnossl.forcepoint.com
 0.0.0.0 analyticspixel.microsoft.com
+0.0.0.0 analyticsplusdev.clientify.net
 0.0.0.0 analyticsresults.bildungsforum.datev.de
 0.0.0.0 analyticsresults.datev-karriereblog.de
 0.0.0.0 analyticsresults.datev-magazin.de
@@ -70120,6 +70124,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 caamazon.com
 0.0.0.0 caamazon.de
 0.0.0.0 caamazon.top
+0.0.0.0 cab-email-analytics.gbc.criteo.com
 0.0.0.0 cab.gbc.criteo.com
 0.0.0.0 cabanaamazonfishing.com
 0.0.0.0 cabanaamazonfishing.com.br
@@ -71386,6 +71391,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 codverterassets.blob.core.windows.net
 0.0.0.0 coed-d.openx.net
 0.0.0.0 coenbeeswlt.s3.eu-north-1.amazonaws.com
+0.0.0.0 coesitecubbing.com
 0.0.0.0 coeurdesamazones.org
 0.0.0.0 coexamazon.com
 0.0.0.0 coffee-amazon.com
@@ -73550,6 +73556,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dontbuyfromamazon.com
 0.0.0.0 dontfeedamazon.com
 0.0.0.0 donzigeramazondefense.org
+0.0.0.0 doojakerbing.help
 0.0.0.0 door2windows.com
 0.0.0.0 doors-and-windows-vn.top
 0.0.0.0 doorwindowsmithcom.122.2o7.net
@@ -74791,6 +74798,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 essenciaamazonica.essnciaamaznica.com
 0.0.0.0 essenciaamazonica.shop
 0.0.0.0 essenciamazonica.com.br
+0.0.0.0 essential-apps-analytics.herokuapp.com
 0.0.0.0 essentialamazon.com
 0.0.0.0 essentialratherxx.z9.web.core.windows.net
 0.0.0.0 essentials-hoodie-amazon.wiegeschnittenbrot.de
@@ -79477,6 +79485,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hyderabad-samsung-service-centre.me
 0.0.0.0 hydromateamazon.com
 0.0.0.0 hyield.jmp9.com
+0.0.0.0 hymenicjobbing.qpon
 0.0.0.0 hymt4znzfmdoenniybgvfrisfgfyt1516664931.nuid.imrworldwide.com
 0.0.0.0 hyperamazon.com
 0.0.0.0 hypnobabiesonamazon.com
@@ -86120,6 +86129,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mputertrainingcenter.onmicrosoft.com
 0.0.0.0 mpxxjwbs1lfg.z11.web.core.windows.net
 0.0.0.0 mqia89amazon.com
+0.0.0.0 mqlmvhahrwpg.com
 0.0.0.0 mr-amazon.com
 0.0.0.0 mr-amazon.pro
 0.0.0.0 mr01.inmobi.com
@@ -90278,6 +90288,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 prebid.digitru.st
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 prebid.fqtag.com
+0.0.0.0 prebid.loopmertb.com
 0.0.0.0 prebid.lucead.com
 0.0.0.0 prebid.media.net
 0.0.0.0 prebid.mgid.com
@@ -95129,6 +95140,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 samsungkt.cn
 0.0.0.0 samsungkurumsal.net
 0.0.0.0 samsunglaser.co.kr
+0.0.0.0 samsunglatam.tt.omtrdc.net
 0.0.0.0 samsunglcdlowprice.com
 0.0.0.0 samsunglearninghub.com
 0.0.0.0 samsungleasen.nu
@@ -95374,6 +95386,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 samsungsfund.com
 0.0.0.0 samsungshop.by
 0.0.0.0 samsungshop.co.ke
+0.0.0.0 samsungsiel.tt.omtrdc.net
 0.0.0.0 samsungsiheung.com
 0.0.0.0 samsungsilvercare.co.kr
 0.0.0.0 samsungskills.com
@@ -96115,6 +96128,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 seattleamazon.com
 0.0.0.0 seattlecoachonamazon.com
 0.0.0.0 seb.scorecardresearch.com
+0.0.0.0 sebagofulvene.click
 0.0.0.0 sebrae-amazon.moringa.digital
 0.0.0.0 sebumpurasuingurisshuamazon.exclusive-indicator.com
 0.0.0.0 sec-analytics.panasonic.co.uk
@@ -105931,6 +105945,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.sallerncensnstralle-amazon.com
 0.0.0.0 www.samsung-s5620.tk
 0.0.0.0 www.samsung2020.h2g.pl
+0.0.0.0 www.samsungotn.net
 0.0.0.0 www.samsungrm.net
 0.0.0.0 www.samsungservicecell.com.br
 0.0.0.0 www.scorecardresearch.com
@@ -107345,6 +107360,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ys-amazonser.com
 0.0.0.0 ytfg.usalinux.top
 0.0.0.0 ytghhhb.z13.web.core.windows.net
+0.0.0.0 ytstlyiqbvspg.com
 0.0.0.0 ytukhhh.z13.web.core.windows.net
 0.0.0.0 yuamazon.com
 0.0.0.0 yuiamazon.top
