@@ -1,6 +1,9 @@
 0.fls.doubleclick.net
+007google.com
 01.creativecdn.com
 0118e48f-af4a-4da1-96bb-2144cc761ab0.nuid.imrworldwide.com
+022dpg.com
+069bingo.com
 0bmmbivlbvbufzavbudikrjqr2bms1516679323.nuid.imrworldwide.com
 0bxpzcxxdhsv7hmijqe1wdegdolxb1505296612.nuid.imrworldwide.com
 0fazsi4qmrwxikvr2tuxlux8tgm8n1516629185.nuid.imrworldwide.com
@@ -85,6 +88,7 @@
 1spl.ir.zeotap.com
 1tireln6gfop1hskcta4pqt4ijpxr1515418921.nuid.imrworldwide.com
 2.afs.googleadservices.com
+20.178.149.34.bc.googleusercontent.com
 2013561.fls.doubleclick.net
 2032864.fls.doubleclick.net
 2036857.fls.doubleclick.net
@@ -664,6 +668,7 @@
 49bc.rubiconproject.com
 49nv5kntoubqfjbdret86vjaenr5t1509533890.nuid.imrworldwide.com
 4anners.ero-advertising.com
+4bing.com
 4cjubgyh4pnwmbjburbhxxhkl6hxg1509504020.nuid.imrworldwide.com
 4cywq-eqnre.ads.tremorhub.com
 4ddpwkzfdq09i0ey6c4gi4zyqjair1516371602.nuid.imrworldwide.com
@@ -673,6 +678,7 @@
 4kuyueqhpoivllonkloktl1bryhz51514570402.nuid.imrworldwide.com
 4no5qq0ufuav7be09kjpinj89sja21516663399.nuid.imrworldwide.com
 4nvfocbkisergq9rd0mjhm41rbbon1508691580.nuid.imrworldwide.com
+4winmobile.com
 4yucp5run8xsbj2ltcrkdh79muqmz1513529900.nuid.imrworldwide.com
 5005700.fls.doubleclick.net
 5005706.fls.doubleclick.net
@@ -1077,6 +1083,7 @@
 6773942.fls.doubleclick.net
 6775103.fls.doubleclick.net
 6789831.fls.doubleclick.net
+68.240.110.34.bc.googleusercontent.com
 6809600.fls.doubleclick.net
 6865100.fls.doubleclick.net
 6870903.fls.doubleclick.net
@@ -1085,6 +1092,7 @@
 690341.fls.doubleclick.net
 6907820.fls.doubleclick.net
 6cb0f52f-351f-442f-a359-f9528f6eb5f0.nuid.imrworldwide.com
+6hpg.com
 6hqvgnhgsdsaujgg07fpuh17z45gw1507498790.nuid.imrworldwide.com
 6psex-axuft.ads.tremorhub.com
 6psex-fm1gy.ads.tremorhub.com
@@ -1144,6 +1152,7 @@
 8zytexpyhevjxbicsoohkbpg5ryjc1504901441.nuid.imrworldwide.com
 926110.fls.doubleclick.net
 9281235.fls.doubleclick.net
+92ewi29wmjyrjlpg.com
 946800.fls.doubleclick.net
 97vymodxsgub69whcgml2y12mdqtp1508203802.nuid.imrworldwide.com
 982522.fls.doubleclick.net
@@ -2569,6 +2578,7 @@ abinderurlaubde.widget.criteo.com
 aboutads.quantcast.com
 absa.demdex.net
 absorbingband.com
+absorbingelsewheredisobey.com
 absorbinginject.com
 absorbingprison.com
 ac-v1.presage.io
@@ -15510,6 +15520,7 @@ adobeanalytics.populusgroup.com
 adobeanalytics.serveone.co.kr
 adobeanalytics.teksystems.com
 adobeanalytics.vice.com
+adobecloud5xpo.yolasite.com
 adobeconnectna.d1.sc.omtrdc.net
 adobeconsumer.sc.omtrdc.net
 adobecorp.data.adobedc.net
@@ -16684,6 +16695,7 @@ ar-gmtdmp.mookie1.com
 ar.ads.justpremium.com
 ar.scorecardresearch.com
 ar4xpxornxhny41zv8hribp24hs9y1509462932.nuid.imrworldwide.com
+arabiawin.com
 aranzulla-d.openx.net
 arkadium-d.openx.net
 arm.rubiconproject.com
@@ -17331,16 +17343,20 @@ bing-rewards.evyy.net
 bing0.ru
 bingads.com
 bingads.microsoft.com
+bingeysosoneguarri.cyou
 binglee-com-au.b.appier.net
 bingmob.offerstrack.net
 bingmod.offerstrack.net
 bingo4affiliates.com
 bingocabin.com
 bingohall.ag
+bingopatti.site
 bingorevenue.directtrack.com
+bingovotress.click
 bingp.ru
 bingq.ru
 bingsclspe.download
+bingstyle.com
 binolide.widget.criteo.com
 bip.presage.io
 bis.vidazoo.com
@@ -17373,6 +17389,7 @@ blue.soju.openx.net
 blueeagle.smaato.net
 bluekai-sync.dotomi.com
 bluepages.smaato.net
+bluestacksdownloads.com
 bluestembrandsinc.demdex.net
 bluewater-video-d.openx.net
 bm.met.vgwort.de
@@ -17447,6 +17464,7 @@ bt.criteo.com
 bt1yrqhoonwywnlqx1zocnwk9zsox1507541991.nuid.imrworldwide.com
 btw.ero-advertising.com
 buchch.widget.criteo.com
+buddhawin.com
 buecherde.widget.criteo.com
 bugstest.adition.com
 build-master-3e786f9.use.dynamicyield.com
@@ -17609,6 +17627,7 @@ cache.prebid-server.com
 cache1.googlevideo.com
 cafemedia-d.openx.net
 caiflyt535vufqquuvmwyyc6ogwuj1509463761.nuid.imrworldwide.com
+cajjdntkkpg.com
 calendar.adition.com
 cam.demdex.net
 campaign.adobe.com
@@ -17868,6 +17887,7 @@ chip.met.vgwort.de
 choice.demdex.net
 christde.widget.criteo.com
 christianbusinessadvertising.com
+chromegoogle.cn
 churchdwightsizmek22033498.s.moatpixel.com
 chy1rrw2dfbjc4ug9sehx9bsnrg0p1516627595.nuid.imrworldwide.com
 ci.beap.ad.yieldmanager.net
@@ -17919,7 +17939,9 @@ clients.adcolony.com
 clients.advertising.com
 clientstats.advertising.com
 clientui-adserver.ibillboard.com
+climbingailroutine.com
 climbingright.com
+climbingsmuggle.com
 clk.control.kochava.com
 cloud.rubiconproject.com
 cloudapi.imrworldwide.com
@@ -18131,6 +18153,7 @@ cpu.samsungelectronics.com
 cr-nielsen.com
 cr.ads.justpremium.com
 crabtreeandevelynuk.widget.criteo.com
+crackerreturn.com
 crackle.demdex.net
 crash-metrics.sdk.inmobi.com
 crashlyticsreports-pa.googleapis.com
@@ -18247,6 +18270,7 @@ dafitibr.widget.criteo.com
 daia.ero-advertising.com
 daily-caller-d.openx.net
 dailycaller-d.openx.net
+dailymegawin.com
 dailymotion.demdex.net
 dakinemedia-d.openx.net
 dallasnews-d.openx.net
@@ -18525,6 +18549,7 @@ developer.inmobi.com
 developer.outbrain.com
 developers.pubnative.net
 deviantart-d.openx.net
+devourthrobbingspeed.com
 df.mediaplex.com
 df4yigr2hq7fwg2vgfke2hdcydeve1509542941.nuid.imrworldwide.com
 dfe.gbc.criteo.com
@@ -18535,6 +18560,7 @@ dfpapi.doubleclick.net
 dfpdashboard.doubleclick.net
 dfpreports.doubleclick.net
 dfw.bakerbrothersplumbing.com
+di.mintierbingee.shop
 di.rlcdn.com
 diagmon-serviceapi.samsungdm.com
 diagnostics-lp.inmobi.com
@@ -18599,6 +18625,7 @@ dk.ads.justpremium.com
 dkbet9mgoiaonprx6sb9d0amcsdbz1516220812.nuid.imrworldwide.com
 dl.casalemedia.com
 dl.inmobi.com
+dl.tubingacater.com
 dl01.casalemedia.com
 dl02.casalemedia.com
 dl03.casalemedia.com
@@ -18672,6 +18699,7 @@ domaindevcorp-d.openx.net
 domains.googlesyndication.com
 dominionmedia-d.openx.net
 doojakerbing.help
+dopey-tradition.com
 dotomi.com
 doubleclick.net
 doubleclick.net.24489.9178.302br.net
@@ -18721,6 +18749,7 @@ doubleclick.net.80252.9336.302br.net
 doubleclickbygoogle.com
 doubleclickbygoogle.de
 doubleverify.com
+doubtedyielded.com
 doucettemedia-d.openx.net
 douglasde.widget.criteo.com
 download.gallery.brightcove.com
@@ -18865,6 +18894,7 @@ ecommerce-events.adscale.com
 econa.met.vgwort.de
 ecoupons.com
 ecs.demdex.net
+ecstatic-turn.com
 ed1w1gbcjxjteeae97mzhph5vr3jv1509531031.nuid.imrworldwide.com
 edc.adform.net
 edf.gbc.criteo.com
@@ -18886,6 +18916,7 @@ editorial-stg.outbrain.com
 editorial.outbrain.com
 edmodo-d.openx.net
 edreamsde.widget.criteo.com
+educationalrubbing.com
 eduesse-d.openx.net
 ee01dns.advertising.com
 ee01gws.advertising.com
@@ -18916,6 +18947,7 @@ ei.rlcdn.com
 eisde.widget.criteo.com
 eisenberg.inmobicdn.net
 ejodwopthpg.com
+ejoiviordgeopg.com
 eks.dynamicyield.com
 ekwfbkm9whxu3dnd8zi5kpcb8dcsc1516628502.nuid.imrworldwide.com
 elastic.ams.justpremium.com
@@ -18940,6 +18972,8 @@ emea-v3.tracking.justpremium.com
 emea.doubleclick.net
 emea.tracking.justpremium.com
 emgn-d.openx.net
+eminent-return.com
+empireturn.com
 en-studiotraining.inmobi.com
 en.adition.com
 enamorade.widget.criteo.com
@@ -19165,6 +19199,7 @@ f7uf1fcnjx2pxhflwtlkpr8jbvxxp1509506200.nuid.imrworldwide.com
 f8ctylzhpd4fljgksikq64vaqsyt41509466311.nuid.imrworldwide.com
 f8pasplittas7sdiw7jedhdlhsstd1509225510.nuid.imrworldwide.com
 f958a440-882b-4908-a685-f676702e9f50.nuid.imrworldwide.com
+fa.curbingglomera.shop
 fa4ac898-e034-4381-870b-8293c646c151.nuid.imrworldwide.com
 faa.demdex.net
 fabzwh3g40zxurch0mow7itnwehtc1516628654.nuid.imrworldwide.com
@@ -19692,6 +19727,7 @@ flw.ero-advertising.com
 fmkyi6kmhhcyglrlr9ch7nnfhx7o31509178711.nuid.imrworldwide.com
 fnatfee.ero-advertising.com
 focus.met.vgwort.de
+foliosenumbing.com
 fonecta.demdex.net
 footballmedia-d.openx.net
 ford.demdex.net
@@ -20263,6 +20299,7 @@ fsnecommerce.demdex.net
 fsres.advertising.com
 fsuser.advertising.com
 fsync-tm.everesttech.net
+fubbingrevamp.shop
 fumff33rfrtgys6brtevujfshebrz1513519230.nuid.imrworldwide.com
 fundingchoices.google.com
 fundingchoicesmessages.google.com
@@ -20291,6 +20328,7 @@ g2.gumgum.com
 g3.doubleclick.net
 g5ms4qizwkl6gkzvuishtvo6qdjvl1508683700.nuid.imrworldwide.com
 g6ogilo198nda9lbke8uy03aikprf1509504202.nuid.imrworldwide.com
+gabbingvending.com
 gads.pubmatic.com
 gads11000.pubmatic.com
 gads11000c.pubmatic.com
@@ -20371,6 +20409,7 @@ germanwingsde.widget.criteo.com
 get.brightcove.com
 get.s-onetag.com
 getcoding.advertising.com
+getcouponsearch.com
 getpublica.com
 getyourguidede.widget.criteo.com
 gfk-de.sensic.net
@@ -20388,6 +20427,7 @@ gionee.analytics.glance.inmobi.com
 giphylee.com
 git.pubmatic.com
 giymdemo.pubmatic.com
+gk.jobbingneftgil.shop
 gklfs-0vg08.ads.tremorhub.com
 gklfs-fvifs.ads.tremorhub.com
 gklfs-giam6.ads.tremorhub.com
@@ -20503,11 +20543,13 @@ googleapitest.bluekai.com
 googlebidder-dc1.yieldoptimizer.com
 googlebidder-dc2.yieldoptimizer.com
 googlecm.hit.gemius.pl
+googleeplay.com
 googleforwork.co1.qualtrics.com
 googlehm.cc
 googleme.eu
 googleoptimize-cn.com
 googleoptimize.com
+googlepay.cn
 googleplaysetvices.com
 googlepositions.com
 googlerank.info
@@ -20533,6 +20575,7 @@ gourmetads-d.openx.net
 gov.aniview.com
 govolode.widget.criteo.com
 gpaevztfylm5lxtz0uhdjaa6nnkk81504935370.nuid.imrworldwide.com
+gpaxwwyupg.com
 gr-gmtdmp.mookie1.com
 grafana.outbrain.com
 graffix.adition.com
@@ -20540,6 +20583,7 @@ grahammedia-d.openx.net
 grand-central.showheroes.com
 granitemedia-d.openx.net
 graydown-d.openx.net
+greeneplumbingandheating.info
 grey.soju.openx.net
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -20586,6 +20630,7 @@ gy3akhzlwoplyrxdccfrmnmohmwbv1507504440.nuid.imrworldwide.com
 gy6uotqok9wecksnx3lu30gfn1v9l1508670340.nuid.imrworldwide.com
 gymgrossistense.widget.criteo.com
 gypeelrmw6joe9mthaxnhjbl488nt1504903010.nuid.imrworldwide.com
+gzghpg.com
 h.openx.net
 h.scorecardresearch.com
 hackathon.dynamicyield.com
@@ -21762,6 +21807,7 @@ link.dynamicyield.com
 link.outbrain.com
 listingbook-d.openx.net
 listverse-d.openx.net
+littertradition.com
 live.brightcove.com
 live.primis.tech
 liveops.kochava.com
@@ -22142,6 +22188,7 @@ mft1.inskinad.com
 mfulipovxepjume0vsv82r8pphjwo1516220570.nuid.imrworldwide.com
 mg.3lift.com
 mghkpg.com
+mh.tubbinguncaned.com
 mhp6rglucx0gpvm0yaqmffuhqo4zi1511341000.nuid.imrworldwide.com
 mhqjnpsb2q1diodn7u2znfzjxz5wj1509915251.nuid.imrworldwide.com
 miami.ero-advertising.com
@@ -22431,6 +22478,7 @@ newsletter.rubiconproject.com
 newsletter.sst-apac.test.cjmadobe.com
 newsmaxmedia.demdex.net
 newtest.wunderman-email.cjm.adobe.com
+newyorkbingeeatinghypnosisnyc.com
 newyorklife.demdex.net
 newyorkmediallc-d.openx.net
 nexac.demdex.net
@@ -22987,6 +23035,7 @@ ox.pxl.ace.advertising.com
 oxdemo-d.openx.net
 oxjapan-d.openx.net
 oyojeelxp1n0p2w4fhugtusfwu00u1511205910.nuid.imrworldwide.com
+oz.putonyields.com
 ozfj4ftcumyhbra8vqviqyskgivi81511179800.nuid.imrworldwide.com
 ozubtmrzalzwgstns4szvo7rzdghj1510353080.nuid.imrworldwide.com
 p-jp-elb-inmobi.cinarra.com
@@ -23703,6 +23752,7 @@ pxl2.connexity.net
 pxl3.connexity.net
 pxl4.connexity.net
 pxleu.connexity.net
+pyhrjedhlepcdkek-zyapg.com
 pyk.imrworldwide.com
 pythagore.demdex.net
 q.adrta.com
@@ -23740,6 +23790,7 @@ qainteryield.jmp9.com
 qantas.demdex.net
 qatgafm76y951lsexbzz1lztstaws1516628878.nuid.imrworldwide.com
 qbputgvftcbcjzo4o3n7h3qfausyc1509210722.nuid.imrworldwide.com
+qc.bingeypartie.top
 qc.smartadserver.com
 qcnrblgdonypg.com
 qcx.quantserve.com
@@ -23755,6 +23806,7 @@ qmxfurboonxwdb4wiozfejvravjet1507557480.nuid.imrworldwide.com
 qn3fsrskjhd23bjjz1toagwldumvb1504928950.nuid.imrworldwide.com
 qpjowolqlpg.com
 qps.cint.com
+qqbingo.com
 qqi8lgl0rq7zmkh6chaevgnkhsrog1507006971.nuid.imrworldwide.com
 qr-non-member-unsubscribe-landing-page.qr.test.ajo.adobe.com
 qrnfkw9qwfzoovqdpopr2dvdawx8w1516348540.nuid.imrworldwide.com
@@ -23807,6 +23859,7 @@ raiseit-d.openx.net
 rakuten.dis.criteo.com
 rancher.showheroes.com
 rand.demdex.net
+randrplumbingheatingandcooling.info
 rat.fr.eu.criteo.com
 rat.nl.eu.criteo.com
 rata.ero-advertising.com
@@ -23867,6 +23920,7 @@ redirect.ero-advertising.com
 redirect.viglink.com
 redirector.c.googlesyndication.com
 redirects.ero-advertising.com
+reducedoverturn.com
 refinedlabsde.widget.criteo.com
 regi.di.atlas.samsung.com
 region1.analytics.google.com
@@ -24221,6 +24275,7 @@ sadobe.autoscout24.it
 sadobe.autoscout24.lu
 sadobe.autoscout24.nl
 sadobe.dealchecker.co.uk
+sadobe.dentsu-ho.com
 sadobe.falabella.com
 sadobe.falabella.com.ar
 sadobe.falabella.com.co
@@ -24270,6 +24325,7 @@ samsung3.solution.weborama.fr
 samsungacr.com
 samsungadhub.com
 samsungads.com
+samsungallstore.com
 samsungelectronicsamericainc.demdex.net
 samsungindonesia.demdex.net
 samsungmsc.d1.sc.omtrdc.net
@@ -24627,6 +24683,7 @@ sharead.adcolony.com
 sharethrough.adnxs.com
 shavideo.adsrvr.org
 shell.demdex.net
+shenbingask.com
 shiokambing2.com
 shirmpy.adobe.fanatics.com
 shmoop-d.openx.net
@@ -24734,6 +24791,7 @@ smartadserver.com
 smartclip.com
 smartclip.net
 smartstream.tv
+smartstreamwarden.com
 smarttag.rubiconproject.com
 smarttravel-d.openx.net
 smetric.ads.microsoft.com
@@ -25366,6 +25424,7 @@ thngw.doubleclick.net
 thngw1.doubleclick.net
 thngw2.doubleclick.net
 thoughtcatalog-d.openx.net
+thriftybingo.com
 thumb.ero-advertising.com
 thumbads.ero-advertising.com
 thumbs.ero-advertising.com
@@ -25386,6 +25445,7 @@ timeinc.demdex.net
 timera-d.openx.net
 titangate-d.openx.net
 tiumbs.ero-advertising.com
+tj.bingoputlog.shop
 tk.ads.justpremium.com
 tk.kargo.com
 tk0x1.com
@@ -25806,6 +25866,7 @@ use.match.adsrvr.org
 usedeverywhere-d.openx.net
 usedirect.adsrvr.org
 usefb.adsrvr.org
+uselessaridplumbing.com
 usermatch.targeting.unrulymedia.com
 userpanel.ero-advertising.com
 userpanel.g.doubleclick.net
@@ -26018,6 +26079,7 @@ vgjofnjmrqx5kbzoixvnbsobgreof1505442050.nuid.imrworldwide.com
 vgrtq7rjwrel6a8bsah1uqiqazot11509509341.nuid.imrworldwide.com
 vgwort.de
 vh.adscale.de
+vh.bingeyares.com
 vi.gumgum.com
 vice-d.openx.net
 vice.demdex.net
@@ -26116,6 +26178,7 @@ vodafonealbania.demdex.net
 vodafonein.demdex.net
 vodafoneromania.demdex.net
 vodhaqaujopg.com
+voidlygarbing.cfd
 voken.eyereturn.com
 vonagemarketingllc.demdex.net
 vonvonme-d.openx.net
@@ -26147,6 +26210,7 @@ vt.adition.com
 vtrack.aniview.com
 vtracy.de
 vtrk.doubleverify.com
+vz.nielsenjedding.com
 vztd3.adition.com
 vzu4dshojalxd004wqxt4iokf2eap1509209221.nuid.imrworldwide.com
 vzzg4zpeanzawjqsbulayw8eso4kl1510281122.nuid.imrworldwide.com
@@ -26177,6 +26241,7 @@ wardowde.widget.criteo.com
 warehouseonede.widget.criteo.com
 warnerbros-d.openx.net
 waseaca.demdex.net
+washesanobing.click
 washingtonpost-d.openx.net
 wats.everesttech.net
 wattpad-d.openx.net
@@ -26185,6 +26250,7 @@ waytogrow-d.openx.net
 waz.cleverpush.com
 waz.met.vgwort.de
 wazimo-d.openx.net
+wb.sleevesbarbing.com
 wd.adcolony.com
 wdata.ero-advertising.com
 wdpro-mkt-prod2-lb.campaign.adobe.com
@@ -26296,6 +26362,7 @@ wimduch.widget.criteo.com
 wimdude.widget.criteo.com
 wimduse.widget.criteo.com
 win.w.inmobi.com
+winnersofvouchers.com
 winteryield.jmp9.com
 wintricksbanner.googlepages.com
 wirtualn-d.openx.net
@@ -26796,6 +26863,7 @@ xaxis-it.mookie1.com
 xb60eopo5nmh6ak1xa4hjwgg7hieo1516691082.nuid.imrworldwide.com
 xblvqmtnedypcu4vebijeydpbr2r71516690840.nuid.imrworldwide.com
 xbuxffofckq9irbtuknnid8lghqg81504883831.nuid.imrworldwide.com
+xcoupon.cn
 xd.adform.net
 xeqljseu7okgmrpykvygepvztmv4l1509928781.nuid.imrworldwide.com
 xfinder.staging.adition.com
@@ -26803,6 +26871,7 @@ xfuf6gzz6vhzlf8iazu5gacqq8mnw1511326060.nuid.imrworldwide.com
 xjrfpbiemmxmqrtm4dxqd4iedsswl1509894180.nuid.imrworldwide.com
 xkfldp1rce3w9kgpydewoz8frlmn31505450130.nuid.imrworldwide.com
 xml-v4.yieldradius.io
+xml.yieldoz.com
 xml.yieldradius.io
 xn--adspace-kvg.ero-advertising.com
 xn--ryield-heqxb4671gshxg.jmp9.com
@@ -26871,6 +26940,7 @@ yieldsoftware.com
 yieldtraffic.com
 yieldtrk.com
 yieldx.com
+yieldyswear.help
 yj-a.p.adnxs.com
 yj.p.adnxs.com
 ykhgzkcphkxsgncaveyvdajfllmx51514600241.nuid.imrworldwide.com
@@ -26947,6 +27017,7 @@ zulip.dynamicyield.com
 zumobi-d.openx.net
 zww.ero-advertising.com
 zxnntuasgl9svnbbnzuzcyzjain0b1511323210.nuid.imrworldwide.com
+zy.rhizopinabbing.com
 zyleqnzmvupg.com
 zynga-d.openx.net
 zyngainc-d.openx.net

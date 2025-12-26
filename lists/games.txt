@@ -1,10 +1,13 @@
 1000mines.com
 1001spiele.at
 1001spiele.de
+247pool.com
 3000spiele.de
 3d-games-convention.com
 60freegames.de
 6spiele.de
+8ballpool.com
+a.silvergames.com
 accounts.gtarcade.com
 acct.gtarcade.com
 ad-freegames.github.io
@@ -18,6 +21,7 @@ beanstalk.io
 bestebrowsergames.de
 bestespieleonline.de
 beta.elvenar.com
+bloob.io
 bloons-td5.en.softonic.com
 bloonswiki.com
 br-play.grepolis.com
@@ -95,6 +99,7 @@ eu-play.riseofcultures.com
 eu-play.sunrisevillagegame.com
 eu.riseofcultures.com
 fi.grepolis.com
+files.silvergames.com
 flashlegacy.com
 flashmuseum.org
 flipline.com
@@ -276,6 +281,7 @@ spieleaffe.org
 spielen.com
 spielen.de
 spielepost.de
+spielmit.com
 spielsafari.de
 sprunkiy.com
 stargames.de
@@ -303,9 +309,11 @@ us-play.grepolis.com
 us.elvenar.com
 us0.grepolis.com
 us8.elvenar.com
+v.silvergames.com
 v3m.gtarcade.com
 v4m-ultra.gtarcade.com
 warbrokers.io
+warofdragons.de
 warthunder.com
 webgamer.io
 webmulator.com
@@ -314,6 +322,7 @@ whackywins.com
 www.1000mines.com
 www.1001spiele.at
 www.1001spiele.de
+www.247pool.com
 www.3d-games-convention.com
 www.60freegames.de
 www.addictinggames.com
@@ -416,6 +425,7 @@ www.spiele123.com
 www.spieleaffe.org
 www.spielen.com
 www.spielen.de
+www.spielmit.com
 www.stargames.de
 www.strategiebrowserspiele.com
 www.techradar.com
