@@ -138,6 +138,7 @@ gry.boxheadx.com
 gs2play.com
 gtarcade.com
 gulper.io
+hahagames.com
 handdrawngames.com
 heavy.com
 hero-wars.com
@@ -164,6 +165,7 @@ kizi.com
 kongregate.com
 kostenlose-browsergames.de
 kostenlose-games.de
+kostenlose-spiele.net
 kostenlosespiele24.de
 krunker.io
 lagged.com
@@ -263,8 +265,6 @@ snake.lol
 snakegame.gg
 snakegame.net
 snokido.com
-solitär-kostenlos-spielen.de
-solitärbliss.de
 speedrun.com
 spielaffe.de
 spiele-for-free.de
@@ -366,6 +366,7 @@ www.gamingscan.com
 www.gdz.bplaced.net
 www.giantbomb.com
 www.gtarcade.com
+www.hahagames.com
 www.handdrawngames.com
 www.hero-wars.com
 www.jetztspielen.de
@@ -414,7 +415,6 @@ www.silvergames.com
 www.snake.at
 www.snakegame.net
 www.snokido.com
-www.solitärbliss.de
 www.speedrun.com
 www.spielaffe.de
 www.spiele-7.de
