@@ -37,12 +37,14 @@ browsergames.spielen.de
 browsergameskostenlos.com
 browsergaming.io
 browserspiele.fm
+bubblebox.com
 bubbleclassic.com
 bubbleshooter.com
 bubbleshooter.de
 bubbleshooter.eu
 bubbleshooter.net
 bubbleshooterfun.de
+bubbleshooters.nl
 bubblespielen.de
 cardplayer.com
 casino.com
@@ -129,6 +131,7 @@ games.hamburg.de
 games.web.de
 gamesgames.com
 gamesv2.gtarcade.com
+gamesy.com
 gamingscan.com
 garticphone.com
 gdz.bplaced.net
@@ -341,6 +344,7 @@ www.bubbleshooter.com
 www.bubbleshooter.de
 www.bubbleshooter.eu
 www.bubbleshooter.net
+www.bubbleshooters.nl
 www.bubblespielen.de
 www.cardplayer.com
 www.casino.com
@@ -362,6 +366,7 @@ www.gamepoint.com
 www.gamepur.com
 www.gamerbolt.com
 www.gamesgames.com
+www.gamesy.com
 www.gamingscan.com
 www.gdz.bplaced.net
 www.giantbomb.com

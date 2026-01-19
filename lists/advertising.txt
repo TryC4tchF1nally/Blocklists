@@ -22,6 +22,7 @@
 1.everesttech.net
 10.afs.googleadservices.com
 1016557.fls.doubleclick.net
+101modelling.com
 1039.everesttech.net
 1044889.fls.doubleclick.net
 1104996.fls.doubleclick.net
@@ -151,6 +152,7 @@
 2997500.fls.doubleclick.net
 29bvp1aabedjpv8ykcbjcafttisvw1510315311.nuid.imrworldwide.com
 2baners.ero-advertising.com
+2delllwrite.com
 2ds.ero-advertising.com
 2fbanners.ero-advertising.com
 2fflatfee.ero-advertising.com
@@ -282,6 +284,7 @@
 3999503.fls.doubleclick.net
 3b9afa9mqxgldalsoyyr2slgl63by1508698471.nuid.imrworldwide.com
 3bpk7clrnekiwdgwbzw49lt9iotit1509486002.nuid.imrworldwide.com
+3delllwrite.com
 3ds.ero-advertising.com
 3jugr51ukshducidnj06ahszk8ptj1513558820.nuid.imrworldwide.com
 3l422gyttfgnknw8tcqhchsv8fkm41507084941.nuid.imrworldwide.com
@@ -18420,6 +18423,7 @@ datingadvertising.com
 datplus.springserve.com
 dats.ero-advertising.com
 datt.ero-advertising.com
+datumdellago.com
 daua.ero-advertising.com
 dava.ero-advertising.com
 dawa.ero-advertising.com
@@ -18501,12 +18505,18 @@ delivery-us-east-1.servedbyopenx.com
 delivery-us-west-1.openx.net
 delivery-us-west-1.servedbyopenx.com
 delivery.yieldoptimisers.net
+dell.com.ssl.d1.sc.omtrdc.net
+dell.evergage.com
+dell.hb.omtrdc.net
+dell.inq.com
+dell.touchcommerce.com
 dellbe.widget.criteo.com
 dellch.widget.criteo.com
 dellchde.widget.criteo.com
 dellde.widget.criteo.com
 delldk.widget.criteo.com
 dellie.widget.criteo.com
+dellinc.tt.omtrdc.net
 dellse.widget.criteo.com
 delta.demdex.net
 dem1.demdex.net
@@ -21367,6 +21377,7 @@ inmobiassets.inmobicdn.com
 inmobiassets.inmobicdn.net
 inmobicdn.com
 inmobicdn.net
+inmobiliariaselite.com
 inmobisdk-a.akamaihd.net
 inneractive-d.openx.net
 innocean-insight.adsrvr.org
@@ -21959,6 +21970,7 @@ ltm.xs.mookie1.com
 lturch.widget.criteo.com
 lturde.widget.criteo.com
 lu.ads.justpremium.com
+lucasdonadelloadv.com
 ludifr.widget.criteo.com
 luiza.demdex.net
 lululemonathleticacanadainc.demdex.net
@@ -22582,6 +22594,7 @@ ns6.criteo.com
 ns6.viglink.com
 ns7.criteo.com
 ns8.criteo.com
+nsm.dell.com
 nsof-web.dynamicyield.com
 nt-es.imrworldwide.com
 nt.criteo.com
@@ -23825,6 +23838,7 @@ quickresource.eyereturn.com
 quixa.demdex.net
 quoka-d.openx.net
 qvcde.widget.criteo.com
+qwpg.com
 qy5q0anienqlejepfj0ocps9fj7to1507501391.nuid.imrworldwide.com
 qz4ffloujahlyxze9nu6rqu7ls9s91515415691.nuid.imrworldwide.com
 qzi6umuu8tuufzprjnbtp1dcb4io01516669263.nuid.imrworldwide.com
@@ -26885,6 +26899,7 @@ xrci4tvq4xsyoaobbl5ihw71ryvyk1507508600.nuid.imrworldwide.com
 xslt.mediaplex.com
 xslttest.la.mediaplex.com
 xssg5fz8hah7qfhqdys9ny4ejeaqm1504910791.nuid.imrworldwide.com
+xvbrqjdcfyokpg.com
 xxxbidder.kochava.com
 y-data.adsrvr.org
 y-rtb.adsrvr.org

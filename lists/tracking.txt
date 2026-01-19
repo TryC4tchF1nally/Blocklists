@@ -2208,6 +2208,7 @@ b2banalytics.samsungknox.com
 b2binsider.adobe.com
 b6fpev68crrx.apiweb248.theappanalytics.com
 badger.outbrain.com
+bancosabadellsa.tt.omtrdc.net
 bang-mkt-prod2-cus.campaign.adobe.com
 bankinter-mid-prod1.campaign.adobe.com
 banners.analyticson.com
@@ -2820,6 +2821,9 @@ dell-mid-prod5.campaign.adobe.com
 dell-mid-stage1.campaign.adobe.com
 dell-mid-stage3.campaign.adobe.com
 dell.campaign.adobe.com
+dell.hb-api.omtrdc.net
+dell.hb.omtrdc.net
+delltechnologies.tt.omtrdc.net
 deltacomfort-mkt-prod1.campaign.adobe.com
 deltacomfort-mkt-stage1-res.campaign.adobe.com
 deltadentalca-rt-prod1-cus.campaign.adobe.com
@@ -3101,6 +3105,7 @@ euevents.samsungads.com
 eui-mkt-prod1.campaign.adobe.com
 eui-mkt-stage1.campaign.adobe.com
 eumanalytics.saas.appdynamics.com
+eumarketing.event-tracking.samsung.com
 europe.event-tracking.samsung.com
 event-analytics-backend.skyeng.ru
 event-proxy.outbrain.com
@@ -3192,6 +3197,7 @@ feedback.bingads.microsoft.com
 feedback.chartbeat.com
 feedback.gameanalytics.com
 feeds.tip.ads.microsoft.com
+ferroviedellostatosp.tt.omtrdc.net
 fewjlw.device-metrics-us-2.amazon.com
 ffda-test-machine.qa.campaign.adobe.com
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
@@ -3322,6 +3328,7 @@ gladiator.250analytics.com
 glance-analytics.trafficmanager.net
 gld.samsungosp.com
 global.beta.pw.analytics.console.aws.a2z.com
+global.delltechnologies.com
 global.gamma.pw.analytics.console.aws.a2z.com
 global.prod.pw.analytics.console.aws.a2z.com
 global.test.pw.analytics.console.aws.a2z.com
@@ -3339,6 +3346,7 @@ go-us.gameanalytics.com
 go.amazon-ads-sfevents.com
 go.amazonnews.com
 go.amazonsellerservices.com
+go.econnect.dellmed.utexas.edu
 go.freight.amazon.de
 go.gameanalytics.com
 go.marketing.stroeer.de
@@ -3346,6 +3354,7 @@ go.medeanalytics.com
 go.orbitanalytics.com
 go.samsungads.com
 go.signals-analytics.com
+go.spidell.com
 go.thehub-amazon.com
 go.toutapp.comgoogleads.g.doubleclick.netib.adnxs.com
 go.unruly.co
@@ -4102,6 +4111,7 @@ m.chartbeat.com
 m.community.usta.com.cname.campaign.adobe.com
 m.contact.sanofi.fr.cname.campaign.adobe.com
 m.customer-id.circles.life.cname.campaign.adobe.com
+m.delltechnologies.com
 m.e1.panerabread.com.cname.campaign.adobe.com
 m.e2.panerabread.com.cname.campaign.adobe.com
 m.email.aginsurance.be.cname.campaign.adobe.com
@@ -4437,6 +4447,7 @@ maps.googletagmanager.com
 marketerresources.internal.outbrain.com
 marketing.analytics-iq.com
 marketing.clarosanalytics.com
+marketing.event-tracking.samsung.com
 marketing.opexanalytics.com
 marketing.outbrain.com
 marketingplatform.google.com
@@ -4511,6 +4522,7 @@ me-central-1.gamma.pr.analytics.console.aws.a2z.com
 me-central-1.prod.pr.analytics.console.aws.a2z.com
 me-south-1.gamma.pr.analytics.console.aws.a2z.com
 me-south-1.prod.pr.analytics.console.aws.a2z.com
+medellin.gbc.criteo.com
 media.analyticson.com
 media.stroeer.de
 mediamarketplace.ads.microsoft.com
@@ -4872,6 +4884,7 @@ ns2.googlemaail.com
 ns2.googlesettings.com
 ns2.imganalytics.com
 ns2.veigadealmeida.microsofttonline.com
+nsm.dell.com
 nsobmgmt.outbrain.com
 ntvspa-mkt-prod4-1.campaign.adobe.com
 ntvspa-mkt-prod4.campaign.adobe.com
@@ -6139,6 +6152,7 @@ skyit-mkt-prod3.campaign.adobe.com
 skyuk-rt-dev2-t.campaign.adobe.com
 slickdeals-mkt-prod1-lb.campaign.adobe.com
 slideruleanalytics.com
+sm.delltechnologies.com
 smart.gravyanalytics.com
 smart1.250analytics.com
 smartanalytics.io
@@ -6147,6 +6161,7 @@ smartsound-quicktracks-for-adobe-premier.apponic.com
 smetric.ads.microsoft.com
 smetrics-smartcommerce.amazon.in
 smetrics.afpjobs.amazon.com
+smetrics.bancsabadell.com
 smetrics.flex.amazon.ca
 smetrics.flex.amazon.co.jp
 smetrics.flex.amazon.co.uk
@@ -6367,6 +6382,7 @@ stroeer01.webtrekk.net
 stroeermobileperformance.com
 stroeerprecisionx.kayzen.io
 sts.advertising.microsoft.com
+stt.dell.com
 stts.swisshranalytics.ch
 studio.outbrain.com
 studioanalytics.adform.com
