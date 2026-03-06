@@ -378,7 +378,10 @@ adobe-image-viewer.apponic.com
 adobe-inco-mkt-prod1-lb.campaign.adobe.com
 adobe-inco-mkt-prod1-t.campaign.adobe.com
 adobe-media-encoder-cc.apponic.com
+adobe-metrics.amegybank.com
+adobe-metrics.calbanktrust.com
 adobe-metrics.nsbank.com
+adobe-metrics.zionsbank.com
 adobe-net.000webhostapp.com
 adobe-nonsecure.cjone.com
 adobe-online-secured-f11filereader-pdf-format.000webhostapp.com
@@ -778,6 +781,7 @@ amazonfulfillmentservices.sc.omtrdc.net
 amazongamestudios.d2.sc.omtrdc.net
 amazonhr.demdex.net
 amazonhr.sc.omtrdc.net
+amazonhr.tt.omtrdc.net
 amazonhramazonhra2d1prod.112.2o7.net
 amazonhrhvh.112.2o7.net
 amazonhrhvhuat.112.2o7.net
@@ -2640,6 +2644,7 @@ conad-mid-stage1.campaign.adobe.com
 concierge.analytics.console.aws.a2z.com
 config.aps.amazon-adsystem.com
 config.samsungads.com
+connect.facebook.net
 connect.spotxchange.com
 connectid.analytics.yahoo.com
 connectwww.googletagmanager.com
@@ -2971,6 +2976,7 @@ eda.250analytics.com
 edge-analytics.exponential.com
 edge.adobedc.net
 edge.analytics.brightedge.com
+editor.ads.microsoft.com
 editorial.outbrain.com
 edmanalytics.pandahall.com
 egcloud-us.analytics-egain.com
@@ -3077,6 +3083,7 @@ eu-north-1.gamma.pr.analytics.console.aws.a2z.com
 eu-north-1.prod.pr.analytics.console.aws.a2z.com
 eu-office.events.data.microsoft.com
 eu-r-mobile.events.data.microsoft.com
+eu-r-office.events.data.microsoft.com
 eu-r-teams.events.data.microsoft.com
 eu-south-1.gamma.pr.analytics.console.aws.a2z.com
 eu-south-1.prod.pr.analytics.console.aws.a2z.com
@@ -5360,6 +5367,7 @@ prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
 prod.analytics.dealer.com
 prod.darkroom.analytics.console.aws.a2z.com
+prod.editor.ads.microsoft.com
 prod.log.darkroom.analytics.console.aws.a2z.com
 prod.log.shortbread.analytics.console.aws.a2z.com
 prod.tahoe-analytics.publishers.advertising.a2z.com
