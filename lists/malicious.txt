@@ -331,6 +331,7 @@
 6zc8sx.onmicrosoft.com
 70334p7x2zwnx4ninrrbfz02.z13.web.core.windows.net
 70amazon.johndoegroup.de
+716145009-oferta-samsung-galaxy-z-flip7.cfd
 716amazon.com
 716amazon.shop
 716amazonjm.shop
@@ -1477,7 +1478,9 @@ alaskanamazon.com
 alawasa.onmicrosoft.com
 albamazon-vector-eu-west-1.api-gateway.sit.ls.hatching.it
 alcanceamazonico.com.br
+alebilet.716145009-oferta-samsung-galaxy-z-flip7.cfd
 alebilet.7189172361-oferta-samsung-galaxy-z-flip7.cfd
+alebilet.85075937269-oferta-samsung-galaxy-z-flip7.click
 alebilet.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 alebilet.pl-oferta1184159671253-samsung-galaxy.shop
 alebilet.pl-oferta1359697-samsung-odyssey-g9-2024.sbs
@@ -1595,8 +1598,10 @@ allamazonrecovery.co
 allamazonservices.store
 allbookamazon.com
 allegganga.s3.ap-northeast-2.amazonaws.com
+allegro.716145009-oferta-samsung-galaxy-z-flip7.cfd
 allegro.718911237512-oferta-samsung-galaxy-z-flip7.cfd
 allegro.7189172361-oferta-samsung-galaxy-z-flip7.cfd
+allegro.85075937269-oferta-samsung-galaxy-z-flip7.click
 allegro.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 allegro.pl-oferta1184159671253-samsung-galaxy.shop
 allegro.pl-oferta1359697-samsung-odyssey-g9-2024.sbs
@@ -1613,6 +1618,8 @@ allegro.pl-oferta76507799364825-samsung-galaxy-tab-s9.cfd
 allegro.pl-oferta76507799393637-samsung-galaxy-tab-s9.cfd
 allegro.pl-oferta79866387645-samsung-galaxy-tab-s8-set.shop
 allegro.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
+allegrolokalnie.716145009-oferta-samsung-galaxy-z-flip7.cfd
+allegrolokalnie.85075937269-oferta-samsung-galaxy-z-flip7.click
 allegrolokalnie.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 allegrolokalnie.pl-oferta1184159671253-samsung-galaxy.shop
 allegrolokalnie.pl-oferta1359697-samsung-odyssey-g9-2024.sbs
@@ -2215,6 +2222,7 @@ amazon-ads-tool.gen3marketing.com
 amazon-ads.mightysocial.tech
 amazon-ads.net
 amazon-ads.nominateus.co
+amazon-ads.pro
 amazon-ads.shopify.com
 amazon-ads.shopifyapps.com
 amazon-ads.sparkup.events
@@ -3208,14 +3216,17 @@ amazon-clone-7p8.pages.dev
 amazon-clone-85b.pages.dev
 amazon-clone-8ct.pages.dev
 amazon-clone-8i4.pages.dev
+amazon-clone-95e6.vercel.app
 amazon-clone-abdul-rafays-projects-87eac4f7.vercel.app
 amazon-clone-akhil.pages.dev
 amazon-clone-aku.pages.dev
+amazon-clone-alpha-gilt-89.vercel.app
 amazon-clone-alpha-sable-28.vercel.app
 amazon-clone-aqg.pages.dev
 amazon-clone-asz.pages.dev
 amazon-clone-ayg.pages.dev
 amazon-clone-bkn.pages.dev
+amazon-clone-blue-ten.vercel.app
 amazon-clone-by-shubham.netlify.app
 amazon-clone-by-sudip.netlify.app
 amazon-clone-cgn.pages.dev
@@ -3230,6 +3241,7 @@ amazon-clone-ephrem.netlify.app
 amazon-clone-ew0.pages.dev
 amazon-clone-f2v.pages.dev
 amazon-clone-five-amber.vercel.app
+amazon-clone-five-azure-81.vercel.app
 amazon-clone-gamma-ashen.vercel.app
 amazon-clone-gr9.pages.dev
 amazon-clone-html-css-oqv6.vercel.app
@@ -4760,6 +4772,7 @@ amazon-hu.com
 amazon-hub-appreciat.juanmedinaphotography.com
 amazon-hub-woh1-sta.juanmedinaphotography.com
 amazon-hub.com
+amazon-hub.net
 amazon-humor.com
 amazon-hun.com
 amazon-hunters.com
@@ -12424,6 +12437,7 @@ amazon.etnamedicare.com
 amazon.etre.co.jp
 amazon.etssy.com
 amazon.etthicspoint.com
+amazon.eu-prime.com
 amazon.eu-west-1.lb.infinity.blismedia.com
 amazon.eu.hotelfs.eu.org
 amazon.eudata.middleschoolenglishteacher.xyz
@@ -16111,6 +16125,7 @@ amazon.portail-identification.com
 amazon.portal-activens.web.id
 amazon.portal-prime.com
 amazon.portal-signin.com
+amazon.portal-subs.com
 amazon.portal.odinapi.net
 amazon.portlandautotransport.com
 amazon.posides.com
@@ -21122,6 +21137,7 @@ amazonaccountrescue.com
 amazonaccounts.zitsol.net
 amazonaccountsecurity.ca
 amazonaccountsecurity.pages.dev
+amazonaccountservices.com
 amazonaccountsforsale.co.uk
 amazonaccountshub.com
 amazonaccountsreceivable.eth.co
@@ -26550,6 +26566,7 @@ amazonclone-dlw.pages.dev
 amazonclone-egt.pages.dev
 amazonclone-eys.pages.dev
 amazonclone-mysql.mysql.database.azure.com
+amazonclone-steel-two.vercel.app
 amazonclone-two-gamma.vercel.app
 amazonclone.arca-payments.network
 amazonclone.chhatreshkhatri.com
@@ -32034,6 +32051,7 @@ amazongin.co.uk
 amazongineers.com
 amazongineers.websitewalebhaiya.com
 amazongioielli.com
+amazongirl.atw.hu
 amazongirl.cloakist.site
 amazongirl.com
 amazongirl.net
@@ -43777,6 +43795,7 @@ amazonsaudis.com
 amazonsaunas.com
 amazonsauro.com
 amazonsaustralia.com
+amazonsavage.com
 amazonsave.co
 amazonsave.lgblock.com
 amazonsave.ouwenhome.com
@@ -48452,6 +48471,7 @@ amazonwebapps.com
 amazonwebbc.com
 amazonwebbiz.biz
 amazonwebcam.com
+amazonwebclone.vercel.app
 amazonwebclone1.netlify.app
 amazonwebdesign.com
 amazonwebdesignagent.com
@@ -58815,6 +58835,7 @@ interestingamazonfind.com
 interfacerh.ma
 interiorsbyamazon.com
 interligadosamazonia.com.br
+internacionalaaaa1q.z9.web.core.windows.net
 internacionalahoaaaaa.z9.web.core.windows.net
 internacionaldaamazonia.com
 internacionaldaamazoniacoms.com
@@ -60374,6 +60395,7 @@ linux33.com
 linux4.cloudserve.pw
 linux404.pro
 linux55.com
+linux64.info
 linuxajuda.org
 linuxapple.direct.quickconnect.cn
 linuxapplets.com
@@ -60398,6 +60420,7 @@ linuxhostingns.com
 linuxibiacollective26.digital
 linuxienwawa.free.fr
 linuxinsideerror.xyz
+linuxiso.org
 linuxjournal.it
 linuxlaboratories.com
 linuxmedialabs.com
@@ -60562,6 +60585,7 @@ login-uthscsa-microsoftonl.webflow.io
 login-zimbra-user.aceredpolnt.com
 login.amazon.grahaminsurancegroupinc.com
 login.auth0-v2-microsoft365.dropportal.io
+login.benalmadena-es--microsoft.com
 login.microsoft-login.live
 login.microsoft-onedrive.365.6-zip.com
 login.microsoft.earling.org
@@ -61811,6 +61835,7 @@ microsoft-assets.com
 microsoft-atualiza.com
 microsoft-auth-network.cc
 microsoft-auth.email
+microsoft-auths.com
 microsoft-auto-gen.com
 microsoft-axelliant.com
 microsoft-axelliant.org
@@ -62431,6 +62456,7 @@ microsoftazuresqlmigration.com
 microsoftazuresqloptimization.com
 microsoftazzurewin.avf69programmer.workers.dev
 microsoftb.work
+microsoftbattle.net
 microsoftbctalent.com
 microsoftbenincommunity.org
 microsoftbilisim.com
@@ -62509,6 +62535,7 @@ microsoftcrew.com
 microsoftcrmtalent.com
 microsoftcrowdstrike.com
 microsoftcrw.com
+microsoftcs.com
 microsoftcustomersupport-number.com
 microsoftcustomersupportnumber.com
 microsoftcx.com
@@ -62568,6 +62595,7 @@ microsofteeelogsss.weebly.com
 microsoftemailstextsforyou.com
 microsoftemailsverify.weebly.com
 microsoftemployeebenefits.com
+microsoftems.top
 microsoftengl-usoutlooksemail.framer.website
 microsoftenligne.fr
 microsoftenly.com
@@ -62908,6 +62936,7 @@ microsoftpartnercenter.com
 microsoftpartnersupport.com
 microsoftpasskeys.com
 microsoftpatreon.duckdns.org
+microsoftpersia.ir
 microsoftpic.com
 microsoftpk.com
 microsoftplatformsconsulting.com
@@ -64234,6 +64263,7 @@ navigon-app-amazon.envisa.de
 nawateteamazon.com
 nayahamazon.com
 nayakonmicrosoft.net
+nazarevar.z1.web.core.windows.net
 naziramazon.com
 nb54gm72zrfhwfl8d.z6.web.core.windows.net
 nba-amazon.fiverfix.com
@@ -65136,7 +65166,9 @@ olikpoceaofb.z13.web.core.windows.net
 ollceduph.onmicrosoft.com
 olobcfsekztia.z13.web.core.windows.net
 olsiamazon.repl.co
+olx.716145009-oferta-samsung-galaxy-z-flip7.cfd
 olx.7189172361-oferta-samsung-galaxy-z-flip7.cfd
+olx.85075937269-oferta-samsung-galaxy-z-flip7.click
 olx.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 olx.pl-oferta1184159671253-samsung-galaxy.shop
 olx.pl-oferta135972-samsung-odyssey-g9.sbs
@@ -66310,6 +66342,7 @@ pointed-toe-flats-amazon.waita.de
 pointprnexpressed.z11.web.core.windows.net
 points-amazon.net
 points-prim-amazon.illigera.com
+poiuytghbdcrsd.z9.web.core.windows.net
 pokemon-platinum-amazon.keldra.de
 poksehnd.onmicrosoft.com
 polaamazone77.net
@@ -67181,6 +67214,7 @@ quicklydefender.z13.web.core.windows.net
 quickstartamazon.magicofph.com
 quietumplusamazon.com
 quimicaamazonas.com.br
+quiohngdrtescx.z9.web.core.windows.net
 quip-amazon-cdn.com
 quip-amazon-elements.com
 quip-amazon.co
@@ -70304,6 +70338,7 @@ samsung95.ru
 samsung99.xyz
 samsung9ja.com.ng
 samsunga55.com
+samsungaccelerator.com
 samsungacilservis.com
 samsungactive.com
 samsungadminpanel.online
@@ -70655,6 +70690,7 @@ samsungmobilesales.org
 samsungmobileservice.in
 samsungmobils.com
 samsungmoblieusa.com
+samsungmoet.com
 samsungmolding.com
 samsungmy.com
 samsungn.shop
@@ -72882,6 +72918,7 @@ sretrustmicrosoft.mrcnppl.us
 srnjaamazonastore.mkt.autofarba.com
 srpskiamazon.rs
 srpskiamazon.rs.vebprodaja.rs
+sruiojhgbdrfea.z5.web.core.windows.net
 srv.thespacereporter.com
 srv01-amazon.com
 srv2-amazon.com
@@ -76118,6 +76155,7 @@ verkopenopamazon.be
 verlflcation-amazonus.com
 verlfyamazon-service.com
 verniciamazon.webdeveloper-am.com
+veronalinux.com
 veroty.onmicrosoft.com
 vertexamazon.com
 vesseltrackeamazon.de
@@ -76190,8 +76228,10 @@ vinacera.com
 vinceresuamazon.com
 vintageamazon.com
 vintageamazonia.com
+vinted.716145009-oferta-samsung-galaxy-z-flip7.cfd
 vinted.718911237512-oferta-samsung-galaxy-z-flip7.cfd
 vinted.7189172361-oferta-samsung-galaxy-z-flip7.cfd
+vinted.85075937269-oferta-samsung-galaxy-z-flip7.click
 vinted.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 vinted.pl-oferta1184159671253-samsung-galaxy.shop
 vinted.pl-oferta1359697-samsung-odyssey-g9-2024.sbs
@@ -77088,6 +77128,7 @@ windows-69944.click
 windows-6t0-pso-3632165.click
 windows-7-activator.com
 windows-7-themes.com
+windows-7.net
 windows-70297.bond
 windows-70395.click
 windows-70728.bond
@@ -77181,6 +77222,7 @@ windows-99737.bond
 windows-99792.bond
 windows-99797.click
 windows-activat.com
+windows-activators.com
 windows-alert-warning-report.errorinternetcomputerwindow.xyz
 windows-and-doors-replacement-company-0901.click
 windows-and-doors-replacement-company-1301.click
@@ -77314,6 +77356,7 @@ windows98.xf.cz
 windowsactivator.org
 windowsactivatorpro.com
 windowsadobe.ml
+windowsaltindigo.com
 windowsapple.com
 windowsappstore.net
 windowsassist247.com
@@ -77418,12 +77461,14 @@ windowsserviceproblemfix.com
 windowssp22.zapto.org
 windowssup.in
 windowssupport.com
+windowssupportnow.com
 windowssv.sytes.net
 windowstask.linkpc.net
 windowstation.bar
 windowstation.net
 windowstats.com
 windowstestresultso.ddns.net
+windowstoolsupdate4278874.com
 windowstoworld.com
 windowstroubleshoot.org
 windowstyleshop.com

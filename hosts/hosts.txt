@@ -1577,6 +1577,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 70334p7x2zwnx4ninrrbfz02.z13.web.core.windows.net
 0.0.0.0 70amazon.johndoegroup.de
 0.0.0.0 70e1dffa-07bf-44a5-850e-b0d1437dd330.nuid.imrworldwide.com
+0.0.0.0 716145009-oferta-samsung-galaxy-z-flip7.cfd
 0.0.0.0 716amazon.com
 0.0.0.0 716amazon.shop
 0.0.0.0 716amazonjm.shop
@@ -16404,6 +16405,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad47.hpg.com.br
 0.0.0.0 ad48.hpg.com.br
 0.0.0.0 ad49.hpg.com.br
+0.0.0.0 ad4m.at
 0.0.0.0 ad5.adfarm1.adition.com
 0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
@@ -17591,6 +17593,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adservices.google.com
 0.0.0.0 adservingbase.ace.advertising.com
 0.0.0.0 adsl-75-18-217-241.googleoptimize.com
+0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 adspacds.ero-advertising.com
 0.0.0.0 adspaces.ero-ades.ero-advertising.com
 0.0.0.0 adspaces.ero-advertising.com
@@ -17601,7 +17604,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 adspages.ero-advertising.com
 0.0.0.0 adspcces.ero-advertising.com
 0.0.0.0 adsrv.hpg.com.br
+0.0.0.0 adsrvr.com
+0.0.0.0 adsrvr.io
 0.0.0.0 adsrvr.org
+0.0.0.0 adsrvr.receptiv.com
 0.0.0.0 adsspaces.ero-advertising.com
 0.0.0.0 adstaces.ero-advertising.com
 0.0.0.0 adstransparency.google.com
@@ -18351,7 +18357,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 aldisued-mkt-prod5.campaign.adobe.com
 0.0.0.0 aldisued-mkt-stage6-1.campaign.adobe.com
 0.0.0.0 aldisued-rt-prod2.campaign.adobe.com
+0.0.0.0 alebilet.716145009-oferta-samsung-galaxy-z-flip7.cfd
 0.0.0.0 alebilet.7189172361-oferta-samsung-galaxy-z-flip7.cfd
+0.0.0.0 alebilet.85075937269-oferta-samsung-galaxy-z-flip7.click
 0.0.0.0 alebilet.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 0.0.0.0 alebilet.pl-oferta1184159671253-samsung-galaxy.shop
 0.0.0.0 alebilet.pl-oferta1359697-samsung-odyssey-g9-2024.sbs
@@ -18482,8 +18490,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 alldcs.outbrain.com
 0.0.0.0 alldcs.outbrain.org
 0.0.0.0 allegganga.s3.ap-northeast-2.amazonaws.com
+0.0.0.0 allegro.716145009-oferta-samsung-galaxy-z-flip7.cfd
 0.0.0.0 allegro.718911237512-oferta-samsung-galaxy-z-flip7.cfd
 0.0.0.0 allegro.7189172361-oferta-samsung-galaxy-z-flip7.cfd
+0.0.0.0 allegro.85075937269-oferta-samsung-galaxy-z-flip7.click
 0.0.0.0 allegro.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 0.0.0.0 allegro.pl-oferta1184159671253-samsung-galaxy.shop
 0.0.0.0 allegro.pl-oferta1359697-samsung-odyssey-g9-2024.sbs
@@ -18500,6 +18510,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 allegro.pl-oferta76507799393637-samsung-galaxy-tab-s9.cfd
 0.0.0.0 allegro.pl-oferta79866387645-samsung-galaxy-tab-s8-set.shop
 0.0.0.0 allegro.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
+0.0.0.0 allegrolokalnie.716145009-oferta-samsung-galaxy-z-flip7.cfd
+0.0.0.0 allegrolokalnie.85075937269-oferta-samsung-galaxy-z-flip7.click
 0.0.0.0 allegrolokalnie.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 0.0.0.0 allegrolokalnie.pl-oferta1184159671253-samsung-galaxy.shop
 0.0.0.0 allegrolokalnie.pl-oferta1359697-samsung-odyssey-g9-2024.sbs
@@ -19211,6 +19223,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazon-ads.mightysocial.tech
 0.0.0.0 amazon-ads.net
 0.0.0.0 amazon-ads.nominateus.co
+0.0.0.0 amazon-ads.pro
 0.0.0.0 amazon-ads.shopify.com
 0.0.0.0 amazon-ads.shopifyapps.com
 0.0.0.0 amazon-ads.sparkup.events
@@ -20208,14 +20221,17 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazon-clone-85b.pages.dev
 0.0.0.0 amazon-clone-8ct.pages.dev
 0.0.0.0 amazon-clone-8i4.pages.dev
+0.0.0.0 amazon-clone-95e6.vercel.app
 0.0.0.0 amazon-clone-abdul-rafays-projects-87eac4f7.vercel.app
 0.0.0.0 amazon-clone-akhil.pages.dev
 0.0.0.0 amazon-clone-aku.pages.dev
+0.0.0.0 amazon-clone-alpha-gilt-89.vercel.app
 0.0.0.0 amazon-clone-alpha-sable-28.vercel.app
 0.0.0.0 amazon-clone-aqg.pages.dev
 0.0.0.0 amazon-clone-asz.pages.dev
 0.0.0.0 amazon-clone-ayg.pages.dev
 0.0.0.0 amazon-clone-bkn.pages.dev
+0.0.0.0 amazon-clone-blue-ten.vercel.app
 0.0.0.0 amazon-clone-by-shubham.netlify.app
 0.0.0.0 amazon-clone-by-sudip.netlify.app
 0.0.0.0 amazon-clone-cgn.pages.dev
@@ -20230,6 +20246,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazon-clone-ew0.pages.dev
 0.0.0.0 amazon-clone-f2v.pages.dev
 0.0.0.0 amazon-clone-five-amber.vercel.app
+0.0.0.0 amazon-clone-five-azure-81.vercel.app
 0.0.0.0 amazon-clone-gamma-ashen.vercel.app
 0.0.0.0 amazon-clone-gr9.pages.dev
 0.0.0.0 amazon-clone-html-css-oqv6.vercel.app
@@ -21761,6 +21778,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazon-hub-appreciat.juanmedinaphotography.com
 0.0.0.0 amazon-hub-woh1-sta.juanmedinaphotography.com
 0.0.0.0 amazon-hub.com
+0.0.0.0 amazon-hub.net
 0.0.0.0 amazon-humor.com
 0.0.0.0 amazon-hun.com
 0.0.0.0 amazon-hunters.com
@@ -29438,6 +29456,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazon.etre.co.jp
 0.0.0.0 amazon.etssy.com
 0.0.0.0 amazon.etthicspoint.com
+0.0.0.0 amazon.eu-prime.com
 0.0.0.0 amazon.eu-west-1.lb.infinity.blismedia.com
 0.0.0.0 amazon.eu.hotelfs.eu.org
 0.0.0.0 amazon.eudata.middleschoolenglishteacher.xyz
@@ -33127,6 +33146,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazon.portal-activens.web.id
 0.0.0.0 amazon.portal-prime.com
 0.0.0.0 amazon.portal-signin.com
+0.0.0.0 amazon.portal-subs.com
 0.0.0.0 amazon.portal.odinapi.net
 0.0.0.0 amazon.portlandautotransport.com
 0.0.0.0 amazon.posides.com
@@ -38144,6 +38164,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazonaccounts.zitsol.net
 0.0.0.0 amazonaccountsecurity.ca
 0.0.0.0 amazonaccountsecurity.pages.dev
+0.0.0.0 amazonaccountservices.com
 0.0.0.0 amazonaccountsforsale.co.uk
 0.0.0.0 amazonaccountshub.com
 0.0.0.0 amazonaccountsreceivable.eth.co
@@ -43578,6 +43599,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazonclone-egt.pages.dev
 0.0.0.0 amazonclone-eys.pages.dev
 0.0.0.0 amazonclone-mysql.mysql.database.azure.com
+0.0.0.0 amazonclone-steel-two.vercel.app
 0.0.0.0 amazonclone-two-gamma.vercel.app
 0.0.0.0 amazonclone.arca-payments.network
 0.0.0.0 amazonclone.chhatreshkhatri.com
@@ -49069,6 +49091,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazongineers.com
 0.0.0.0 amazongineers.websitewalebhaiya.com
 0.0.0.0 amazongioielli.com
+0.0.0.0 amazongirl.atw.hu
 0.0.0.0 amazongirl.cloakist.site
 0.0.0.0 amazongirl.com
 0.0.0.0 amazongirl.net
@@ -60825,6 +60848,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazonsaunas.com
 0.0.0.0 amazonsauro.com
 0.0.0.0 amazonsaustralia.com
+0.0.0.0 amazonsavage.com
 0.0.0.0 amazonsave.co
 0.0.0.0 amazonsave.lgblock.com
 0.0.0.0 amazonsave.ouwenhome.com
@@ -65510,6 +65534,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazonwebbc.com
 0.0.0.0 amazonwebbiz.biz
 0.0.0.0 amazonwebcam.com
+0.0.0.0 amazonwebclone.vercel.app
 0.0.0.0 amazonwebclone1.netlify.app
 0.0.0.0 amazonwebdesign.com
 0.0.0.0 amazonwebdesignagent.com
@@ -71241,6 +71266,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 brunoespiao2.s3.amazonaws.com
 0.0.0.0 bruo2pas82amazon.com
 0.0.0.0 brutal-freecodes-amazon.pages.dev
+0.0.0.0 brwsrfrm.com
 0.0.0.0 brx.pxl.ace.advertising.com
 0.0.0.0 bs-s4adm-mat-amazon-ses-rqb-dev.securionpay.com
 0.0.0.0 bs-s4adm-mat-amazon-ses-wlw-dev.securionpay.com
@@ -83673,6 +83699,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 interligadosamazonia.com.br
 0.0.0.0 interlinebrandsinc.demdex.net
 0.0.0.0 intern.connectad.io
+0.0.0.0 internacionalaaaa1q.z9.web.core.windows.net
 0.0.0.0 internacionalahoaaaaa.z9.web.core.windows.net
 0.0.0.0 internacionaldaamazonia.com
 0.0.0.0 internacionaldaamazoniacoms.com
@@ -85778,6 +85805,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 linux4.cloudserve.pw
 0.0.0.0 linux404.pro
 0.0.0.0 linux55.com
+0.0.0.0 linux64.info
 0.0.0.0 linuxajuda.org
 0.0.0.0 linuxapple.direct.quickconnect.cn
 0.0.0.0 linuxapplets.com
@@ -85802,6 +85830,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 linuxibiacollective26.digital
 0.0.0.0 linuxienwawa.free.fr
 0.0.0.0 linuxinsideerror.xyz
+0.0.0.0 linuxiso.org
 0.0.0.0 linuxjournal.it
 0.0.0.0 linuxlaboratories.com
 0.0.0.0 linuxmedialabs.com
@@ -86071,6 +86100,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 login.adition.com
 0.0.0.0 login.amazon.grahaminsurancegroupinc.com
 0.0.0.0 login.auth0-v2-microsoft365.dropportal.io
+0.0.0.0 login.benalmadena-es--microsoft.com
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.microsoft-login.live
 0.0.0.0 login.microsoft-onedrive.365.6-zip.com
@@ -87954,6 +87984,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mezase-amazon.nanbyo-norikoe.net
 0.0.0.0 mf821amazon.com
 0.0.0.0 mfad.inskinad.com
+0.0.0.0 mfadsrvr.com
 0.0.0.0 mfamazonia.com.br
 0.0.0.0 mfiamazon.com
 0.0.0.0 mfmwe6twfqs.apiweb248.theappanalytics.com
@@ -88106,6 +88137,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 microsoft-aunz-d.openx.net
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 microsoft-auth.email
+0.0.0.0 microsoft-auths.com
 0.0.0.0 microsoft-auto-gen.com
 0.0.0.0 microsoft-axelliant.com
 0.0.0.0 microsoft-axelliant.org
@@ -88775,6 +88807,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 microsoftazuresqloptimization.com
 0.0.0.0 microsoftazzurewin.avf69programmer.workers.dev
 0.0.0.0 microsoftb.work
+0.0.0.0 microsoftbattle.net
 0.0.0.0 microsoftbctalent.com
 0.0.0.0 microsoftbenincommunity.org
 0.0.0.0 microsoftbilisim.com
@@ -88855,6 +88888,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 microsoftcrmtalent.com
 0.0.0.0 microsoftcrowdstrike.com
 0.0.0.0 microsoftcrw.com
+0.0.0.0 microsoftcs.com
 0.0.0.0 microsoftcustomersupport-number.com
 0.0.0.0 microsoftcustomersupportnumber.com
 0.0.0.0 microsoftcx.com
@@ -88918,6 +88952,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 microsoftemailstextsforyou.com
 0.0.0.0 microsoftemailsverify.weebly.com
 0.0.0.0 microsoftemployeebenefits.com
+0.0.0.0 microsoftems.top
 0.0.0.0 microsoftengl-usoutlooksemail.framer.website
 0.0.0.0 microsoftenligne.fr
 0.0.0.0 microsoftenly.com
@@ -89277,6 +89312,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 microsoftpartnersupport.com
 0.0.0.0 microsoftpasskeys.com
 0.0.0.0 microsoftpatreon.duckdns.org
+0.0.0.0 microsoftpersia.ir
 0.0.0.0 microsoftpic.com
 0.0.0.0 microsoftpk.com
 0.0.0.0 microsoftplatformsconsulting.com
@@ -90963,6 +90999,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 nawateteamazon.com
 0.0.0.0 nayahamazon.com
 0.0.0.0 nayakonmicrosoft.net
+0.0.0.0 nazarevar.z1.web.core.windows.net
 0.0.0.0 naziramazon.com
 0.0.0.0 nb183.emetriq.com
 0.0.0.0 nb54gm72zrfhwfl8d.z6.web.core.windows.net
@@ -92291,7 +92328,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 ollceduph.onmicrosoft.com
 0.0.0.0 olobcfsekztia.z13.web.core.windows.net
 0.0.0.0 olsiamazon.repl.co
+0.0.0.0 olx.716145009-oferta-samsung-galaxy-z-flip7.cfd
 0.0.0.0 olx.7189172361-oferta-samsung-galaxy-z-flip7.cfd
+0.0.0.0 olx.85075937269-oferta-samsung-galaxy-z-flip7.click
 0.0.0.0 olx.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 0.0.0.0 olx.pl-oferta1184159671253-samsung-galaxy.shop
 0.0.0.0 olx.pl-oferta135972-samsung-odyssey-g9.sbs
@@ -94404,6 +94443,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pointprnexpressed.z11.web.core.windows.net
 0.0.0.0 points-amazon.net
 0.0.0.0 points-prim-amazon.illigera.com
+0.0.0.0 poiuytghbdcrsd.z9.web.core.windows.net
 0.0.0.0 pokemon-platinum-amazon.keldra.de
 0.0.0.0 poksehnd.onmicrosoft.com
 0.0.0.0 polaamazone77.net
@@ -95866,6 +95906,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 quickstartamazon.magicofph.com
 0.0.0.0 quietumplusamazon.com
 0.0.0.0 quimicaamazonas.com.br
+0.0.0.0 quiohngdrtescx.z9.web.core.windows.net
 0.0.0.0 quip-amazon-cdn.com
 0.0.0.0 quip-amazon-elements.com
 0.0.0.0 quip-amazon.co
@@ -98301,6 +98342,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 rtb-rubicon-lon5.everesttech.net
 0.0.0.0 rtb-tm.everesttech.net
 0.0.0.0 rtb-trk.adcolony.com
+0.0.0.0 rtb-use.mfadsrvr.com
+0.0.0.0 rtb-usw.mfadsrvr.com
 0.0.0.0 rtb-xa.openx.net
 0.0.0.0 rtb.1rx.io
 0.0.0.0 rtb.adcolony.com
@@ -98309,6 +98352,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rtb.da.us.criteo.com
 0.0.0.0 rtb.ero-advertising.com
 0.0.0.0 rtb.gumgum.com
+0.0.0.0 rtb.mfadsrvr.com
 0.0.0.0 rtb.nl.eu.criteo.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtb.prebid.adtarget.com.tr
@@ -99673,6 +99717,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 samsung99.xyz
 0.0.0.0 samsung9ja.com.ng
 0.0.0.0 samsunga55.com
+0.0.0.0 samsungaccelerator.com
 0.0.0.0 samsungacilservis.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungactive.com
@@ -100089,6 +100134,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 samsungmobileservice.in
 0.0.0.0 samsungmobils.com
 0.0.0.0 samsungmoblieusa.com
+0.0.0.0 samsungmoet.com
 0.0.0.0 samsungmolding.com
 0.0.0.0 samsungmsc.d1.sc.omtrdc.net
 0.0.0.0 samsungmy.com
@@ -103441,6 +103487,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 srnjaamazonastore.mkt.autofarba.com
 0.0.0.0 srpskiamazon.rs
 0.0.0.0 srpskiamazon.rs.vebprodaja.rs
+0.0.0.0 sruiojhgbdrfea.z5.web.core.windows.net
 0.0.0.0 srv.advanced-web-analytics.com
 0.0.0.0 srv.amazonprincess.com
 0.0.0.0 srv.dco.advertising.com
@@ -108338,6 +108385,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 verlflcation-amazonus.com
 0.0.0.0 verlfyamazon-service.com
 0.0.0.0 verniciamazon.webdeveloper-am.com
+0.0.0.0 veronalinux.com
 0.0.0.0 veroty.onmicrosoft.com
 0.0.0.0 verta-media-d.openx.net
 0.0.0.0 vertexamazon.com
@@ -108530,8 +108578,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 vintageamazon.com
 0.0.0.0 vintageamazonia.com
 0.0.0.0 vinted-de-d.openx.net
+0.0.0.0 vinted.716145009-oferta-samsung-galaxy-z-flip7.cfd
 0.0.0.0 vinted.718911237512-oferta-samsung-galaxy-z-flip7.cfd
 0.0.0.0 vinted.7189172361-oferta-samsung-galaxy-z-flip7.cfd
+0.0.0.0 vinted.85075937269-oferta-samsung-galaxy-z-flip7.click
 0.0.0.0 vinted.pl-oferta113077685947-samsung-galaxy-tab-s10-fe.sbs
 0.0.0.0 vinted.pl-oferta1184159671253-samsung-galaxy.shop
 0.0.0.0 vinted.pl-oferta1359697-samsung-odyssey-g9-2024.sbs
@@ -109848,6 +109898,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 windows-6t0-pso-3632165.click
 0.0.0.0 windows-7-activator.com
 0.0.0.0 windows-7-themes.com
+0.0.0.0 windows-7.net
 0.0.0.0 windows-70297.bond
 0.0.0.0 windows-70395.click
 0.0.0.0 windows-70728.bond
@@ -109941,6 +109992,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 windows-99792.bond
 0.0.0.0 windows-99797.click
 0.0.0.0 windows-activat.com
+0.0.0.0 windows-activators.com
 0.0.0.0 windows-alert-warning-report.errorinternetcomputerwindow.xyz
 0.0.0.0 windows-and-doors-replacement-company-0901.click
 0.0.0.0 windows-and-doors-replacement-company-1301.click
@@ -110074,6 +110126,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 windowsactivator.org
 0.0.0.0 windowsactivatorpro.com
 0.0.0.0 windowsadobe.ml
+0.0.0.0 windowsaltindigo.com
 0.0.0.0 windowsapple.com
 0.0.0.0 windowsappstore.net
 0.0.0.0 windowsassist247.com
@@ -110178,12 +110231,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 windowssp22.zapto.org
 0.0.0.0 windowssup.in
 0.0.0.0 windowssupport.com
+0.0.0.0 windowssupportnow.com
 0.0.0.0 windowssv.sytes.net
 0.0.0.0 windowstask.linkpc.net
 0.0.0.0 windowstation.bar
 0.0.0.0 windowstation.net
 0.0.0.0 windowstats.com
 0.0.0.0 windowstestresultso.ddns.net
+0.0.0.0 windowstoolsupdate4278874.com
 0.0.0.0 windowstoworld.com
 0.0.0.0 windowstroubleshoot.org
 0.0.0.0 windowstyleshop.com

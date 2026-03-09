@@ -106,6 +106,7 @@ files.silvergames.com
 flashlegacy.com
 flashmuseum.org
 flipline.com
+fnd.foundation.game
 forum.de.forgeofempires.com
 forum.gtarcade.com
 fossbytes.com
@@ -260,7 +261,11 @@ sat1spiele.de
 shooter-bubble.com
 shooter-bubble.de
 silvergames.com
+silvergames.de
 silvergames.lottoextra.net
+silvergames.my
+silvergames.online
+silvergames.pics
 skribbl.io
 slither.io
 smileycat.com
@@ -420,6 +425,7 @@ www.sat1spiele.de
 www.shooter-bubble.com
 www.shooter-bubble.de
 www.silvergames.com
+www.silvergames.de
 www.snake.at
 www.snakegame.net
 www.snokido.com

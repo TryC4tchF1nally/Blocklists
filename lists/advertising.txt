@@ -15188,6 +15188,7 @@ ad46.hpg.com.br
 ad47.hpg.com.br
 ad48.hpg.com.br
 ad49.hpg.com.br
+ad4m.at
 ad5.adfarm1.adition.com
 ad5.adspaces.ero-advertising.com
 ad5.banners.ero-advertising.com
@@ -16185,6 +16186,7 @@ adservice.google.xn--ngbrx
 adservice.google.xn--node
 adservices.google.com
 adservingbase.ace.advertising.com
+adsmetadata.mobileadexchange.net
 adspacds.ero-advertising.com
 adspaces.ero-ades.ero-advertising.com
 adspaces.ero-advertising.com
@@ -16195,7 +16197,10 @@ adspaes.ero-advertising.com
 adspages.ero-advertising.com
 adspcces.ero-advertising.com
 adsrv.hpg.com.br
+adsrvr.com
+adsrvr.io
 adsrvr.org
+adsrvr.receptiv.com
 adsspaces.ero-advertising.com
 adstaces.ero-advertising.com
 adsturn.com
@@ -17456,6 +17461,7 @@ broker.adobe.com
 bronzingeyes.digidip.net
 brookdale.demdex.net
 browser-tools.openx.net
+brwsrfrm.com
 brx.pxl.ace.advertising.com
 bs.scorecardresearch.com
 bs.showheroes.com
@@ -22197,6 +22203,7 @@ metricsadobe.hollandandbarrett.be
 metricsadobe.hollandandbarrett.com
 mexxde.widget.criteo.com
 mfad.inskinad.com
+mfadsrvr.com
 mft1.inskinad.com
 mfulipovxepjume0vsv82r8pphjwo1516220570.nuid.imrworldwide.com
 mg.3lift.com
@@ -24092,6 +24099,8 @@ rtb-pubmatic-lon5.everesttech.net
 rtb-rubicon-lon5.everesttech.net
 rtb-tm.everesttech.net
 rtb-trk.adcolony.com
+rtb-use.mfadsrvr.com
+rtb-usw.mfadsrvr.com
 rtb-xa.openx.net
 rtb.1rx.io
 rtb.adcolony.com
@@ -24100,6 +24109,7 @@ rtb.adsrvr.org
 rtb.da.us.criteo.com
 rtb.ero-advertising.com
 rtb.gumgum.com
+rtb.mfadsrvr.com
 rtb.nl.eu.criteo.com
 rtb.openx.net
 rtb.quantserve.com

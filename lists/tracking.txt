@@ -3733,6 +3733,7 @@ id.google.com
 id.google.com.br.domain.name
 id.google.comin.getclicky.com
 id.google.de
+id5-sync.com
 idiagnoser.analytics.edgekey.net
 idp.outbrain.com
 idsync.analytics.yahoo.com
