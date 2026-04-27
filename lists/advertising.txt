@@ -16326,6 +16326,7 @@ aetna.demdex.net
 aexp.demdex.net
 affectionoverturn.com
 affiliate.googleusercontent.com
+affiliateboutiquenetwork.com
 affyield.com
 afl-static-cdn.newbiz-prod.stroeerws.de
 afn2emkeuxv9sg2kvc2jtgk1o42vk1509495120.nuid.imrworldwide.com
@@ -16425,6 +16426,7 @@ altfarm.mediaplex.com.77799.9664.302br.net
 altfarm.mediaplex.com.77801.9664.302br.net
 altria.demdex.net
 alturaadvertising.com
+alwaysfabulousboutique.info
 am100.casalemedia.com
 am101.casalemedia.com
 am102.casalemedia.com
@@ -16659,6 +16661,7 @@ apo.ero-advertising.com
 apodiscounterde.widget.criteo.com
 apollo.showheroes.com
 app-community.pubmatic.com
+app-google-zh.hl.cn
 app-proxy-b.kochava.com
 app-tst.scorecardresearch.com
 app.gumgum.com
@@ -18010,6 +18013,7 @@ cnnmoney.sl.advertising.com
 cnt2.stroeerdp.de
 cntadvertising.com
 cnteryield.jmp9.com
+cnzh-google-apps.hl.cn
 co-gmtdmp.mookie1.com
 co.ads.justpremium.com
 cobundle.gumgum.com
@@ -18120,6 +18124,7 @@ cookiematch-us-west-2.prod.justpremium.com
 cookies-adobe.kbc.be
 coolbluebe.widget.criteo.com
 coolmath-d.openx.net
+coquetteboutiquehouston.com
 corp.brightcove.com
 corp.inmobi.com
 corp.outbrain.com
@@ -18770,6 +18775,7 @@ doucettemedia-d.openx.net
 douglasde.widget.criteo.com
 download.gallery.brightcove.com
 download.scorecardresearch.com
+downloadboutique.com
 dp-sync.dotomi.com
 dp.g.doubleclick.net
 dp00-hk2.everesttech.net
@@ -20517,6 +20523,8 @@ google-analytics-cn.com
 google-analytics.bi.owox.com
 google-analytics.com
 google-bidout-d.openx.net
+google-ch-chrome.com.cn
+google-chrrome-zh.hl.cn
 google-conversion.hiido.com
 google-docs.info
 google-docs.org
@@ -20526,6 +20534,7 @@ google-pr7.de
 google-rank.org
 google-shopping-v2.sapoapps.vn
 google-shopping.sapoapps.vn
+google-zhcn-chrome.com.cn
 google.0.facebook.com
 google.east-s2s.1rx.io
 google.les-surmatelas.fr
@@ -20652,6 +20661,7 @@ h.openx.net
 h.scorecardresearch.com
 hackathon.dynamicyield.com
 hackathon.pubmatic.com
+hairboutique.us.intellitxt.com
 hal9000.redintelligence.net
 hal900018.redintelligence.net
 hal90002.redintelligence.net
@@ -20758,6 +20768,7 @@ hometalk-d.openx.net
 honda.demdex.net
 hondaaustralia.demdex.net
 hook.yieldbuild.com
+hop.boutique
 hosted.viglink.com
 hostelbookersde.widget.criteo.com
 hotelde.widget.criteo.com
@@ -21544,6 +21555,7 @@ jal733mwx0gnfrk6p3qj6fmaxfxti1514584280.nuid.imrworldwide.com
 jambade.widget.criteo.com
 japan.inmobi.com
 japanlandingpage-ajoplatformjapan.ajoplatformjapan.adobevlab.com
+jartibbinght.com
 jbwchrhgpqoggwmecmgq5nyb6h1qw1510342031.nuid.imrworldwide.com
 jbznvhk7fbarwrctzmlnkzifcjeli1509518201.nuid.imrworldwide.com
 jd1ddgi3l3ovfkgaaplyxrxqay4qv1510272691.nuid.imrworldwide.com
@@ -21730,6 +21742,9 @@ l2pdus.mookie1.com
 la-chi.outbrain.com
 la-only.outbrain.com
 lab.justpremium.com
+laboutique.affise.com
+laboutique.g2afse.com
+laboutique.go2affise.com
 labs.criteo.com
 lafuma.widget.criteo.com
 lahitapiola.demdex.net
@@ -24784,6 +24799,7 @@ sjc-login.dotomi.com
 sjc-usadmm.dotomi.com
 sk-gmtdmp.mookie1.com
 skkk3bnoffniotuelzvyaihlazj5t1509504501.nuid.imrworldwide.com
+skyblueboutique.com
 skydeutschland.demdex.net
 skye-d.openx.net
 sladermobile-d.openx.net
@@ -26603,6 +26619,7 @@ wwe-d.openx.net
 wws.ero-advertising.com
 www-akamai.outbrain.com
 www-alv.google-analytics.com
+www-cn-google.org.cn
 www-google--analytics-com.cdn.ampproject.org
 www-google-analytics.l.google.com
 www-google.nl

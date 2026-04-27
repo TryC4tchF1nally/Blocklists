@@ -329,6 +329,7 @@ acr-eu-prd.samsungcloud.tv
 acr-in-prd.samsungcloud.tv
 acr-kr-prd.samsungcloud.tv
 acr-mx-prd.samsungcloud.tv
+acr-nz-prd.samsungcloud.tv
 acr-pp.unruly.co
 acr-us-prd.samsungcloud.tv
 acr.unruly.co
@@ -1570,6 +1571,7 @@ analytics.pollardwater.com
 analytics.pop2watch.com
 analytics.poperblocker.com
 analytics.popskullchicago.com.re.getclicky.com
+analytics.porsche.com
 analytics.preprodchart.com
 analytics.preprodpress.com
 analytics.prezly.com
@@ -2303,6 +2305,7 @@ bodhispaetfitness.frgoogle.com
 boehringer-mkt-prod1-m.campaign.adobe.com
 bonus.data.adobedc.net
 books-analytics-events.apple.com
+books-analytics-events.news.apple-dns.net
 bootsuk.data.adobedc.net
 bose-mid-prod1-lb.campaign.adobe.com
 bose-mid-prod1-m.campaign.adobe.com
@@ -2496,6 +2499,7 @@ carphonewarehouse-mid-prod1-m.campaign.adobe.com
 carphonewarehouse-mid-prod1-t.campaign.adobe.com
 carrefour-rt-stage1.campaign.adobe.com
 cathaypacific.data.adobedc.net
+catimini-boutique-com.eulerian.net
 cb.chartbeat.com
 cb2qxtyrxn2h.apiweb248.theappanalytics.com
 cbus.campaign.adobe.com
@@ -2520,7 +2524,9 @@ cdn.matheranalytics.com
 cdn.muthuksu.test.analytics.console.aws.a2z.com
 cdn.nachoanalytics.com
 cdn.notifications.campaign.adobe.com
+cdn.onesignal.com
 cdn.opecloud.com
+cdn.permutive.com
 cdn.samsungcloudsolution.net
 cdn.simpleanalytics.io
 cdn.spotxcdn.com
@@ -2575,6 +2581,7 @@ citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
 citrixanalyticseh2.servicebus.windows.net
+citrixanalyticseh3-alias.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
 citrixanalyticseheu-alias.servicebus.windows.net
@@ -2774,6 +2781,7 @@ dc.dqa.samsung.com
 dc10-lb.unruly.co
 dcm.250analytics.com
 dcps.clouddc2.syslogagent.telemetry.microsoft.com
+ddf.di.atlas.samsung.com
 dds.microsoft.com
 de.16.data.adobedc.net
 de.bonus.data.adobedc.net
@@ -3670,6 +3678,7 @@ hifyre-mkt-prod1-cus.campaign.adobe.com
 hk2.settings.data.microsoft.com.akadns.net
 hm6e97rxs80tbp.apiweb248.theappanalytics.com
 hme-live-loganalytics-namespace.servicebus.windows.net
+hme-uat-loganalytics-namespace.servicebus.windows.net
 hnqnztjrvhe8.apiweb248.theappanalytics.com
 home.amazonprincess.com
 home.googlemaail.com
@@ -3752,6 +3761,7 @@ image.e.outbrain.com
 images-na.ssl-images-amazon.cominit.itunes.apple.comjs.moatads.com
 images.b2bindia.samsung.com
 images.b2bmkt.samsung.com
+images.business.samsungusa.com
 images.chbusiness.samsung.com
 images.e.environicsanalytics.com
 images.frbusiness.samsung.com
@@ -4861,6 +4871,7 @@ nordnetbankab-mkt-prod1-cus.campaign.adobe.com
 northgateplc-mkt-prod1-cus.campaign.adobe.com
 nosemask.googletagmanager.com
 notes-analytics-events.apple.com
+notes-analytics-events.news.apple-dns.net
 noti-analytics.pushengage.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
@@ -6017,6 +6028,7 @@ sdk-analytics-web.cloud.itau.com.br
 sdk-analytics.inlocomedia.com
 sdk-analytics.inner-active.mobi
 sdk.gravyanalytics.com
+sdk.mrf.io
 sdk.outbrain.com
 sdks.automizely-analytics.com
 se.google.rtb.d5p.de17a.com
@@ -6377,6 +6389,7 @@ stg-analytics.foresee.com
 stg-apigw.samsungdmroute.com
 stg.connect.spotxchange.com
 stocks-analytics-events.apple.com
+stocks-analytics-events.news.apple-dns.net
 storage-stg.outbrain.com
 storage.outbrain.com
 storegoogle.com
@@ -6735,6 +6748,7 @@ tv.ads.spotx.tv
 tvguide.250analytics.com
 tvp-ads-log-staging.samsungads.com
 tvp-ads-log.samsungads.com
+tvp-interactive-ad.samsungads.com
 tw.amazonprincess.com
 u-stg.outbrain.com
 u.agentanalytics.com
@@ -7041,6 +7055,7 @@ wdpro-mkt-prod2-cus.campaign.adobe.com
 wdpro-mkt-prod2-lb.campaign.adobe.com
 wdpro-mkt-prod2.campaign.adobe.com
 weather-analytics-events.apple.com
+weather-analytics-events.news.apple-dns.net
 web-amazonia.000webhostapp.com
 web-analytics.huami.com
 web-frontend-dot-sc-analytics.appspot.com
