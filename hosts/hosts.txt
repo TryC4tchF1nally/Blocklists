@@ -72896,6 +72896,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.cmp.advertising.com
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.demdex.net
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.dynamicyield.com
@@ -75400,6 +75401,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 de-amazon.shop
 0.0.0.0 de-amazone.nl
 0.0.0.0 de-amazones.nl
+0.0.0.0 de-config.sensic.net
 0.0.0.0 de-deliveryinvestigationamazon.de
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de-paysafecard-mit-amazon-pay-bezahlen-96tinvgf.louisestanger.me
@@ -106582,6 +106584,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tag.1rx.io
 0.0.0.0 tag.adaraanalytics.com
 0.0.0.0 tag.adsrvr.org
+0.0.0.0 tag.aticdn.net
 0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 tag.sp.advertising.com
 0.0.0.0 tag.targeting.unrulymedia.com

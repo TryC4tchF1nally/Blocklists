@@ -2518,6 +2518,7 @@ cdn-t.amazon-adsystem.com
 cdn-vfw-us-test.amazon-adsystem.com
 cdn.analytics.sparkpost.com
 cdn.cookielaw.org
+cdn.cxense.com
 cdn.eclipse.unrulymedia.com
 cdn.heapanalytics.com
 cdn.matheranalytics.com
@@ -2783,6 +2784,7 @@ dcm.250analytics.com
 dcps.clouddc2.syslogagent.telemetry.microsoft.com
 ddf.di.atlas.samsung.com
 dds.microsoft.com
+de-config.sensic.net
 de.16.data.adobedc.net
 de.bonus.data.adobedc.net
 de.buffalo.data.adobedc.net
@@ -4339,6 +4341,7 @@ ma988-r.analytics.edgekey.net
 ma99-r.analytics.edgekey.net
 mab.chartbeat.com
 macdm.corp.outbrain.com
+macro.adnami.io
 mads-eu.amazon.com
 mads.amazon-adsystem.com
 mads.amazon.com
@@ -6523,6 +6526,7 @@ tag-analytics.com
 tag-analytics.vi.ai
 tag-dev.idsync.analytics.yahoo.com
 tag.adaraanalytics.com
+tag.aticdn.net
 tag.idsync.analytics.yahoo.com
 tag.targeting.unrulymedia.com
 tagmanager.google.com

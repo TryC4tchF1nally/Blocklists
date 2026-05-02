@@ -1,3 +1,4 @@
+a.aliexpress.com
 aboutyou.at
 aboutyou.bg
 aboutyou.com
@@ -21,6 +22,7 @@ aboutyou.ro
 aboutyou.si
 aboutyou.sk
 ali-express.com.de
+aliexpress.com
 alitrends.com
 apo.com
 apodiscounter.de
@@ -91,12 +93,14 @@ help.bestsecret.fr
 help.bestsecret.nl
 help.bestsecret.se
 hilfe.breuninger.com
+id.aliexpress.com
 inbusiness.aliexpress.com
 it.shein.com
 jobs.bestsecret.com
 jobs.docmorris.com
 jobs.zalando.com
 jp.shein.com
+ko.aliexpress.com
 login.zalando.com
 m.aboutyou.cz
 m.aboutyou.de
@@ -106,6 +110,7 @@ m.aliexpress.com
 m.de.aliexpress.com
 m.shein.com
 medpex.de
+mx.aliexpress.com
 nl.shein.com
 onlineapotheke.wien
 order.retail.zalando.com
