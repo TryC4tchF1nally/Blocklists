@@ -922,6 +922,7 @@ actizn-amazon.jp.iltgift.com
 actizn-amazon.jp.yzfxgzs.com
 actizn-amazon.jp.zjhgtf.com
 acttwindows.duckdns.org
+actualizacionean.z9.web.core.windows.net
 actualizaciones-microsoft.com
 acuamazon.com
 acuarioamazonas.com
@@ -956,6 +957,7 @@ adexchangedirect.com
 adexchangegate.com
 adexchangemachine.com
 adexchangeprediction.com
+adexchangerapid.com
 adexchangetracker.com
 adfgghdfbgjgsdf.onmicrosoft.com
 adfs.uky.edu.adfs.ls.client.request.id.984b9da9.79f04e2b82b3cec190911989.usernamewawsignin1.0wtrealmurn3afederation.3amicrosofto
@@ -1203,6 +1205,7 @@ advertise-bingads-microsoft.com
 advertiseonamazon.com
 advertiseyourbookonamazon.com
 advertising-amazon.com
+advertisingonline-microsoft.com
 advisor-microsoft.us
 advocaciaamazonas.nossosclientes.com.br
 advocacialacerda.com
@@ -2632,6 +2635,7 @@ amazon-appstore-service-staging.cloudrun.bluecaffeine.io
 amazon-appstore-service.cloudrun.bluecaffeine.io
 amazon-aps.fountain.com
 amazon-apse.fountain.com
+amazon-apsing-amazon.com
 amazon-aqp.pages.dev
 amazon-aqt.com
 amazon-aqua.com
@@ -2692,6 +2696,7 @@ amazon-ates-masterclass.way2advertize.com
 amazon-ats.com
 amazon-attorney.com
 amazon-atvs.schatz-wir-kochen.de
+amazon-atw.com
 amazon-au-web-search.xbyteapi.com
 amazon-au.buzz
 amazon-au.cc
@@ -2776,6 +2781,7 @@ amazon-aws.online
 amazon-aws.shop
 amazon-aws.store
 amazon-aws.sudsafe.com
+amazon-aws.ups-check.shop
 amazon-aws.workers.dev
 amazon-aws1.com
 amazon-aws2.com
@@ -2837,8 +2843,10 @@ amazon-beauty.eu
 amazon-beauty.gr
 amazon-beauty.shop
 amazon-bedframes.pi-gmbh.de
+amazon-bedrock-agents.com
 amazon-bedrock-samples.com
 amazon-bedrock.aws.dev
+amazon-bedrock.com
 amazon-bee.attraxio.workers.dev
 amazon-beginyourjourney.com
 amazon-belgie.be
@@ -3400,6 +3408,7 @@ amazon-clone.snappyrankerai.net
 amazon-clone.spideywebdesigns.com
 amazon-clone.xcelcorp.com
 amazon-clone.yichunlan.com
+amazon-clone1-ruddy.vercel.app
 amazon-clone1.hostman.site
 amazon-clone1.pages.dev
 amazon-clone2.pages.dev
@@ -3540,6 +3549,7 @@ amazon-comm.com
 amazon-commande.com
 amazon-commande.fr
 amazon-commercial-actress-kathryn-hahn.wiegeschnittenbrot.de
+amazon-commissions-the-jamie-franco.live
 amazon-commodities.cn
 amazon-commodities.com
 amazon-communities.com
@@ -3856,6 +3866,7 @@ amazon-deineeinkaufswelt.com
 amazon-deliver.com
 amazon-deliveries.com
 amazon-deliveries.net
+amazon-delivers-harm.org
 amazon-delivers.jobs.bellasanpietro.it
 amazon-delivers.jobs.martin-j.de
 amazon-delivers.jobs.translate-economy.de
@@ -4658,6 +4669,7 @@ amazon-gift-card.jp.leiloa.me
 amazon-gift-card.loyaltytunes.com
 amazon-gift-card.mydreamsmaker.com
 amazon-gift-card.us
+amazon-gift-cards.vip
 amazon-gift.co
 amazon-gift.com
 amazon-gift.cs4x.com
@@ -4855,6 +4867,7 @@ amazon-holidays.com
 amazon-hollywood.com
 amazon-holster-belt.stardust-cloud.de
 amazon-home-internet.co.uk
+amazon-home-page-brown.vercel.app
 amazon-home-page.com
 amazon-home.com
 amazon-homepage-clone-beta.vercel.app
@@ -4906,6 +4919,7 @@ amazon-hvac.com
 amazon-hvh-address.wiegeschnittenbrot.de
 amazon-hzcq.com
 amazon-i.com
+amazon-i.net
 amazon-i.workers.dev
 amazon-ia.com
 amazon-ia.es
@@ -5427,6 +5441,7 @@ amazon-legosteine.futuretrack.de
 amazon-lehrerkalender.supplementinfo.de
 amazon-lending-prod.zinia.com
 amazon-lending-test.zinia.com
+amazon-leo.fr
 amazon-leonard-cohen.envisa.de
 amazon-lf.info
 amazon-lgs.com
@@ -6205,6 +6220,7 @@ amazon-pdp.fibr.workers.dev
 amazon-pe.upticker.de
 amazon-peccy-plush.wiegeschnittenbrot.de
 amazon-pedikuere-set.busanhaenger.de
+amazon-peptides.com
 amazon-perfekt-verpasst.sandbox.airlst-events.com
 amazon-performace.com
 amazon-perfume.store
@@ -6357,6 +6373,7 @@ amazon-prime-epson-printer-ink.buergerdialog-ueberlingen.de
 amazon-prime-filme-android.miryoku.de
 amazon-prime-financial.com
 amazon-prime-fr.com
+amazon-prime-games.icu
 amazon-prime-hdmi-cable.awa-bau.de
 amazon-prime-horror.glutenless.de
 amazon-prime-humans-cast.spartens.net
@@ -6484,6 +6501,7 @@ amazon-primestudios.com
 amazon-primeupdate.com
 amazon-primevideo.com
 amazon-primevideo.gaintheory.io
+amazon-primium.com
 amazon-prine.com
 amazon-print-cartridges.spinambacasino.de
 amazon-print.co.uk
@@ -6640,6 +6658,7 @@ amazon-quest.com
 amazon-questionario.shop
 amazon-questioning.com
 amazon-questionnaires.com
+amazon-quick-desktop.com
 amazon-quick-search.browser1.de
 amazon-quilts-twin.fetch-ai.de
 amazon-quip.com
@@ -6813,6 +6832,7 @@ amazon-restoration.com
 amazon-restricted-keyword-checker.strategicage.workers.dev
 amazon-retail-group.com
 amazon-retail-llc-charge.bodeaga.de
+amazon-retail-okta.com
 amazon-retail-therapy.com
 amazon-retail.shop
 amazon-retargeting.hubdub.com
@@ -7226,6 +7246,7 @@ amazon-serviceapps404newdeviceappsecidsecureaccountusaserviced.134-209-18-85.cpr
 amazon-serviceappsacces-billspaymentfails404error.188-166-153-183.cprapid.com
 amazon-serviced-check.com
 amazon-servicee.com
+amazon-servicemanagerpayment-unlockaccount.com
 amazon-serviceplus.com
 amazon-services-center-page.com
 amazon-services-center.org
@@ -7422,6 +7443,7 @@ amazon-silver-sandals.vita-beata.de
 amazon-sim.de
 amazon-simi-valley-jobs.playedfdb.online
 amazon-simplicol.envisa.de
+amazon-singap-bling-amazon.com
 amazon-site.io
 amazon-site.live
 amazon-site.tech
@@ -16960,6 +16982,7 @@ amazon.saadat.app
 amazon.saarctb.org
 amazon.saas.joinscaleup.com
 amazon.saaspump.com
+amazon.sabahealthclinic.com
 amazon.sabakurdev.xyz
 amazon.sabdcosh.com
 amazon.saberhoje.com.br
@@ -38003,6 +38026,9 @@ amazonlending.com
 amazonlentenfast.com
 amazonleo.net
 amazonleo.org.de
+amazonleonano.fr
+amazonleopro.fr
+amazonleoultra.fr
 amazonler.com
 amazonless.com
 amazonless10.com
@@ -45423,6 +45449,7 @@ amazonslots.com.de
 amazonslots.de
 amazonslots.homes
 amazonslots.ie
+amazonslots.llc
 amazonslots.net
 amazonslots.nz
 amazonslots.sbs
@@ -50050,6 +50077,7 @@ app.camelot.exchange.r2-web3.top
 app.dynamicrosoft.com
 app.hyperswap.exchange.mypcpwallet.com
 app.hyrprerswap.exchange
+app.optionscoin-exchange.com
 app.rockectx.exchange
 app.service-amazon-fr.com
 appamazon.cc
@@ -50628,6 +50656,7 @@ auth-amazon.hondacokroaminoto.co.id
 auth-amazon2.com
 auth-amazoncognito.com
 auth-amazonuat.rosslyn.ai
+auth-microsoft-azure.com
 auth-microsoft.maxbet.cash
 auth-onmicrosoft.com
 auth-seller-amazon.com
@@ -50706,6 +50735,7 @@ autosomesconsists.z31.web.core.windows.net
 autotransamazonica.car.blog
 avaamazonia.com
 avantis.exchange
+avantisfi.exchange
 avanzamicrosoft.com
 avasoftmicrosoftfabricdata.com
 avasoftmicrosoftsentinelanalytics.com
@@ -50927,10 +50957,12 @@ babyregistryamazon.com
 babyyousan-amazon.hon.mixh.jp
 bacbkack.exchange
 bacervinco.pro
+bachmann.blob.core.windows.net
 baciamazonica.paginasamarelas-virtual.com.br
 bacjpack.exchange
 back-amazonas.fairvoting.cl
 back7723.z13.web.core.windows.net
+backbcack.exchange
 backlink-exchanges.online
 backlpack.exchange
 backoack.exchange
@@ -51173,6 +51205,7 @@ bed-in-a-box-amazon.idiscounts.com
 bed-throw-amazon.3dslot.de
 bedamazon.com
 bedienungsanleitung-amazon-echo.glutenless.de
+bedrock-amazon.com
 bedrockamazon.com
 beeamazonic.com.br
 beeesionfi.z38.web.core.windows.net
@@ -52021,6 +52054,7 @@ botodaamazonia.com.br
 botodaamazonia.org.br
 bottegamazon.com
 boudoir-des-amazones.fr
+bounty-amazon.store
 boutique-amazone.fr
 boutiquemedamazon.com
 box-amazon-app.shop
@@ -52724,6 +52758,7 @@ cashbackamazon.com
 cashforyouramazonboxes.com
 cashfreeamazon.finance.blog
 cashzamazon2.finance.blog
+casino-amazon-ca.com
 casinoamazonas.com
 casinoamazonia.com
 casinoamazonia.com.br
@@ -52823,7 +52858,9 @@ cdn-amazon.net
 cdn-amazons.test.fraedom-cloud.com
 cdn-eu-amazon-tmp.xtract360.com
 cdn-eu-amazon.xtract360.com
+cdn-microsoft-data.com
 cdn.amazon-us54.com
+cdn.replace-windows-today.xyz
 cdn.stream-amazon.com
 cdn.update.microsoft.com.w.kunluncan.com
 cdn4-microsoft.com
@@ -53859,6 +53896,8 @@ courselamazone.sites.dev-dbcom.fr
 courselamazonej5.sites.dev-dbcom.fr
 couscousamazon.com
 covid-amazonas-idsm.mamiraua.org.br
+covidadvocacyexchange.com
+covidadvocacyexchange.net
 cowcryptoexchange.com
 coworkingespacoamazonas.com
 cowtokenexchange.com
@@ -53977,6 +54016,7 @@ crypto-currencyexchange.com
 crypto-exchange-mixer.top
 crypto-exchange-nl.com
 crypto-exchange-platforms.today
+crypto-exchange-safety.top
 crypto-exchange.cfd
 crypto-exchange.co
 crypto-exchange.info
@@ -54483,6 +54523,7 @@ decrninja.onmicrosoft.com
 decryptoexchange.com
 deepamazon.marconasuto.com
 deepintheamazon.com
+deepseek.exchange
 default-alcumusazureamazon.info-exchange.com
 defend-accounts-recovery-supports-amazon.com
 defendamazon.com
@@ -55850,6 +55891,7 @@ enviosdelaamazonia.com
 enviraamazoniacarbon.com
 eohsdnsaaojrhnqo.windowshost.us
 eos-amazon.com
+eos-amazon.store
 ep-amazon.com
 epayment-amazon.com
 epayment-amazon.com.avaclean.com
@@ -56224,6 +56266,7 @@ exchange.consents.life
 exchange.firstcoinbase.net
 exchange.hoffmanauto.com
 exchange.iwon.com
+exchange.midasbuydeal.com
 exchange.nemhdu.org.uk
 exchange.node.wien
 exchange.observers.digital
@@ -56319,6 +56362,7 @@ exchangesstart.mergerfilings.com
 exchangestatebnonline.com
 exchangestoggle.ralphadogs.com
 exchangesupportservice.work.gd
+exchangesys.monster
 exchangetitan.com
 exchangetogo.com
 exchangetrading.bswizz.com
@@ -56709,6 +56753,7 @@ femotradeexchange.com
 fendtamazone.be
 fendtamazone.vanderhaeghe.be
 feniksamazonki.waw.pl
+fenobedov.z21.web.core.windows.net
 fenou-amazon.hive.app
 fenstersicherung-amazon.borsan.de
 fenzd.onmicrosoft.com
@@ -56737,6 +56782,7 @@ ff-exchange.club
 ff-exchange.in
 ff-exchange.info
 ff-exchange.net
+ff-io-exchange.com
 ffamazonia.com
 ffamazonia.org
 fg34olmv4p6u.z11.web.core.windows.net
@@ -56811,6 +56857,7 @@ filters-search-amazonas.nubestaging.com.br
 filters-search-amazonas.nubestaging.com.mx
 filtroneverasamsung.com
 finalizar-amazon.online
+finalizeamazon.site
 finamazon.com
 finance-samsung.com
 financial-exchange.com
@@ -57081,6 +57128,8 @@ forumamazoniasustentavel.org.br
 forusnotamazon.com
 forusnotamazon.org
 forward-email-amazon.albacore.workers.dev
+forwindowstesting.site
+forwindowstesting.space
 fotografoamazon.com
 fotografoamazon.com.afo.com.co
 fotolivroamazonia.ims.com.br
@@ -57235,6 +57284,7 @@ frentededefensadelaamazonia.ong
 frentedefensadelamazonia.org
 frequencrepresent.z11.web.core.windows.net
 frequentcasualhub.z11.web.core.windows.net
+fresh-amazon-prem.com
 fresh-amazon-premium.com
 fresh-direct-vs-amazon-fresh.camp-wild.de
 freshamazon.in
@@ -59132,6 +59182,7 @@ how-to-kindle-books-from-amazon.davidsaffir.com
 how-to-publish-a-book-on-amazon.cfd
 how-to-see-how-many-stops-away-amazon-is.albrechtaudio.de
 how-to-sell-on-amazon-fresh.clown-placebo.de
+how-to-windows.com
 howamazon.de
 howamazonmakesmoney.com
 howcroft-amazon.online
@@ -60029,6 +60080,19 @@ invoiceinfoamazonid44523com.lsnto.me
 invoicezzeamazon.hellokinetik.com
 invoicingsamsung.com
 involvesinstantza.z11.web.core.windows.net
+io-cryptoexchange.icu
+io-cryptoexchange.shop
+io-cryptoexchange.site
+io-cryptoexchange.top
+io-exchange.icu
+io-exchange.shop
+io-exchange.site
+io-exchange.top
+io-exchangecrypto.icu
+io-exchangecrypto.sbs
+io-exchangecrypto.shop
+io-exchangecrypto.site
+io-exchangecrypto.top
 ioamazon.ir
 iod-transfers-amazon.wiegeschnittenbrot.de
 iodsamazonas.com.br
@@ -60042,6 +60106,7 @@ ioipoipoio.z13.web.core.windows.net
 iomt-ds-4-amazonmq.mcs-iomt-data-streaming-dev.dht.live
 ionosys.s3.us-east-2.amazonaws.com
 iooofzyjldm.sjira.amazon-relay.com
+iosamsung.com
 ip-00-000-73-05-amazonvpc-saeast0b.contrate.com.br
 ip-00-000-76-233-amazonvpc-saeast0a.contrate.com.br
 ip-00-000-79-045-amazonvpc-saeast0b.contrate.com.br
@@ -60739,6 +60804,7 @@ juntosporlaamazonia.org
 jup-exchange.org
 jupininmaceralari.com
 jupiter-exchange-ag.com
+jupiter-exchange-ag.org
 jupiterexchange.com
 jupiterexchanges.org
 juruaamazonia.com
@@ -60971,6 +61037,7 @@ kingofamazon.com.travelkings.com
 kingsoopamazon.comers.com
 kinkyamazons.com
 kinstonetabletamazon.com
+kioldresawxcvb.z9.web.core.windows.net
 kiongkahamazon.com
 kiosk-amazon.drscholls.com
 kioskamazonia.com.br
@@ -61544,6 +61611,7 @@ link-amazon.click
 link2-amazon.com
 link2amazon.com
 linkbuilderforamazonassociates.com
+linkcoin-exchange.com
 linkedgtstrongly.z11.web.core.windows.net
 linkedin-premium-free-with-amazon-prime.akupunktur-punkt.de
 linkexchange.com
@@ -61673,6 +61741,7 @@ live-mail-microsoft.jcloud.kz
 live-microsoft-dns.com
 live-microsoft-dns.live
 live-microsoft-dns.org
+live-microsoft-jp.com
 live-microsoftdns.com
 live-microsoftdns.live
 live-microsoftdns.org
@@ -61776,6 +61845,7 @@ login-amazon.lospecchiocangiante.it
 login-amazon.xactlycorp.com
 login-amazonupdate.50-6-168-189.cprapid.com
 login-appleeid-appleeusvrf-auth.farmaciarenacer.online
+login-aws-amazon.info
 login-customer-amazon-unlockl-com.top
 login-live-microsoft.live
 login-livemicrosoft.com
@@ -61784,6 +61854,8 @@ login-microsoft-account.pages.dev
 login-microsoft-ec-2-authorize.weebly.com
 login-microsoft-mail-85458965op.iiinf.com
 login-microsoft-secure.vercel.app
+login-microsoft-virtual.com
+login-microsoft-virtualpe.com
 login-microsoft.fr
 login-microsoft365.org
 login-microsoftauthverify.serveuser.com
@@ -61796,6 +61868,7 @@ login-microsoftonline.lokantuneraz.com
 login-microsoftonline.pl
 login-microsoftonline.priaso.com
 login-microsoftonline.sproquela.com
+login-microsoftonline.tech
 login-microsoftonline.zentrale.services
 login-microsoftonlines.com
 login-microsoftonlline.megmaprintopack.com
@@ -61885,6 +61958,7 @@ loginlivemicrosoft.com
 loginlivemicrosoft.live
 loginlivemicrosoft.org
 loginmicrosoft-online.fr
+loginmicrosoft.com
 loginmicrosoft.fr
 loginmicrosoft0nline-email.cfd
 loginmicrosoft365.info
@@ -62045,6 +62119,7 @@ loretorioamazonas.pe
 loretovidaamazonica.org
 loretovidaamazonicacorp.com
 lornaamazoninfluencer.com
+lortyuhasdcfvb.z9.web.core.windows.net
 losamazonas.com
 losangelesamazon.com
 losmejoreslibrosdeamazon.compracompara.es
@@ -62129,6 +62204,7 @@ ludo-game-amazon-india.com
 ludo-game-board-amazon.com
 ludo-games-amazon-india.com
 ludo-games-board-amazon.com
+ludodubi.z36.web.core.windows.net
 ludogameamazonindia.com
 ludogameboardamazon.com
 ludogamesamazonindia.com
@@ -62220,6 +62296,7 @@ m.ortal.amazon-relay.com
 m.paqueta-amazon.com
 m.ponwvwww.amazon.fr.videoprimectrn.com
 m.samazon.fr.videoprimegcbt.com
+m.samsungcard.com.nst.tech
 m.sautoconfig.amazon-relay.com
 m.scom.amazon-verifcompte.com
 m.scomcom.amazon-verifcompte.com
@@ -62383,6 +62460,7 @@ mail-amazon.com
 mail-amazon.corra.com.au
 mail-amazon.mony.com.ua
 mail-signin-amazonus1.com
+mail.amazonkaseeds.com
 mail.aquaries.elinuxservers.com
 mail.cipamazonas.org.pe
 mail.com-cleaning-windows-system.live
@@ -63114,6 +63192,7 @@ microsoft-administrator.com
 microsoft-administrator.xyz
 microsoft-ads-bing.com
 microsoft-ads.com
+microsoft-advertising.com
 microsoft-ai-cloud.com
 microsoft-ai-invest.net
 microsoft-ai-quantum.com
@@ -63186,6 +63265,7 @@ microsoft-defender.com
 microsoft-defender.win
 microsoft-demo.com
 microsoft-desktop.com
+microsoft-details.us
 microsoft-dl.com.br.md-43.webhostbox.net
 microsoft-dns.net
 microsoft-document-mxsecuredfile.000webhostapp.com
@@ -63194,6 +63274,7 @@ microsoft-download.pisem.net
 microsoft-drive.fr
 microsoft-ds1.com
 microsoft-dynamics-365-consultant.com
+microsoft-dynamics-365-ecommerce-integration-agencies.com
 microsoft-ecodair.com
 microsoft-edu.us
 microsoft-electropoli.com
@@ -63243,6 +63324,7 @@ microsoft-hk.com
 microsoft-hk1.xyz
 microsoft-hk2.xyz
 microsoft-hk3.xyz
+microsoft-home-page-clone.vercel.app
 microsoft-host.com
 microsoft-hq.com
 microsoft-ia.com
@@ -63268,6 +63350,7 @@ microsoft-live.net
 microsoft-live.zzux.com
 microsoft-liveye.com
 microsoft-login-eight.vercel.app
+microsoft-login-live.com
 microsoft-login-one.vercel.app
 microsoft-login-proxy-xcxvx.hlwdy.workers.dev
 microsoft-login.app
@@ -63360,6 +63443,7 @@ microsoft-outlook.info
 microsoft-outlook.ru
 microsoft-p2e.com
 microsoft-partner.cloud
+microsoft-passkey.com
 microsoft-password.com
 microsoft-pc-alert.s3-website-us-west-2.amazonaws.com
 microsoft-pdf.com
@@ -63374,6 +63458,7 @@ microsoft-reactivar-2025.glitch.me
 microsoft-redirect.fr
 microsoft-relay.click
 microsoft-release-message-portal-status.com
+microsoft-review.com
 microsoft-ru.com
 microsoft-sachdevamilne.com
 microsoft-safe.com
@@ -63408,6 +63493,7 @@ microsoft-shop.com
 microsoft-sicherheit.ch
 microsoft-sign.top
 microsoft-sms.com
+microsoft-smsweb.xyz
 microsoft-solution.com
 microsoft-srvupdate.info
 microsoft-ssl.com
@@ -63437,6 +63523,7 @@ microsoft-t.com
 microsoft-team-967aa3.webflow.io
 microsoft-team-cloud.com
 microsoft-team-invite-record-voicemailbox.com
+microsoft-team.one
 microsoft-teams-app.com
 microsoft-teams-download.com
 microsoft-teams-meets.com
@@ -63802,6 +63889,7 @@ microsoftaistories.com
 microsoftaisuperagent.com
 microsoftaisuperagents.com
 microsoftaitutorials.com
+microsoftal.com
 microsoftalerts.us
 microsoftalerts365.com
 microsoftalumnivoices.com
@@ -63818,6 +63906,7 @@ microsoftapple.net
 microsoftapply.com
 microsoftapps365.com
 microsoftappstore.com
+microsoftappstudio.com
 microsoftappzone.com
 microsoftasi.com
 microsoftask.com
@@ -64238,6 +64327,7 @@ microsoftofficialup.top
 microsoftoffline.sbs
 microsoftoline.org
 microsoftomline.cloud
+microsofton1ine.weebly.com
 microsoftonebranchdev.net
 microsoftonedrive.fr
 microsoftonedrive.help
@@ -64256,6 +64346,7 @@ microsoftonlile.com
 microsoftonlin-p.net
 microsoftonlin.fr
 microsoftonline--p.net
+microsoftonline-advertising.com
 microsoftonline-auth.us
 microsoftonline-confidential-pdf-onedrive-log.000webhostapp.com
 microsoftonline-e-p.net
@@ -64534,6 +64625,7 @@ microsoftsoftwareupdate.dynamicdns.org.uk
 microsoftsoftwave.com
 microsoftsofymicrosoftsoft.at
 microsoftsolution.icu
+microsoftsonline-p.net
 microsoftsonline.net
 microsoftsonllne.com
 microsoftspace.net
@@ -64596,6 +64688,7 @@ microsoftt.me
 microsoftt.net
 microsoftt3ams.com
 microsofttailormade.com
+microsoftteaamsinvite.top
 microsoftteam.000webhostapp.com
 microsoftteam.org
 microsoftteam011.weebly.com
@@ -66049,6 +66142,7 @@ nokoxukejuhi.onmicrosoft.com
 nomadeamazonia.com
 nomadicamazon.com
 nomasamazon.com
+nomazizum.z22.web.core.windows.net
 nonamazon.club
 nonamazon.com.au
 nonamazonlist.nutritionaldiversity.com
@@ -66381,6 +66475,7 @@ novorosaamazonica.shop
 now-amazondeals.com
 now-streamlined-files-40y.s3.us-west-1.amazonaws.com
 now-version.s3.us-east-2.amazonaws.com
+np-amazon.com
 nqht19l47as44kawccdvh089.s3.eu-north-1.amazonaws.com
 nramadamazons.pages.dev
 nramazon.com
@@ -66417,6 +66512,7 @@ nu2024amazonideas.com
 nubianamazon.com
 nuestroamazonas.org
 nuevasprofesiones.onmicrosoft.com
+nufesafew.z1.web.core.windows.net
 nuioghfredtvcd.z9.web.core.windows.net
 number1amazontool.net
 numeroamazon.com
@@ -66596,6 +66692,7 @@ office-emails-secure-microsoft365.com
 office-microsoft-0-365-59896c.webflow.io
 office-microsoft-0-365.webflow.io
 office-microsoft.fr
+office-windows.com
 office.microsoftonline.mail.default.error.h9kd34shc0hsvh3u4h2wo8h1k3hh.zdkhsti94hhhy9ku1hsk3kdxh77.qhd6sih3q88uoiciah8sf.8mxsdsh
 office365-microsoft.com
 office365.login.microsoftonline.com.boffic.com
@@ -66903,6 +67000,7 @@ onmicrosoft-online-o365.com
 onmicrosoft.be
 onmicrosoft.click
 onmicrosoft.cn
+onmicrosoft.co
 onmicrosoft.fr
 onmicrosoft.live
 onmicrosoft.net
@@ -67334,6 +67432,7 @@ panamazonicodeoncologia.com
 panamazonicodeoncologia.com.br
 panamazonsynodwatch.info
 pancake-exchange.org
+pancakeswap-finance-v4-exchange.sbs
 pandemiasamazonia.com.br
 pandoraptamazon.salesshoppinguk.com
 panelamazon.com
@@ -67420,6 +67519,7 @@ passioneamazon.it
 passiongetsmends.z13.web.core.windows.net
 passiveamazonstores.com
 passiveprofitsonamazon.com
+passkey-microsoft.com
 passkeyamazon.com
 passkeysamazon.com
 passsword.microsoftonlime.com
@@ -69484,6 +69584,7 @@ restauranteamazonia.com
 restauranteamazoniachic.com
 restauranteamazonico.com
 restauranteamazonicomedellin.com
+restaurantenew4.z9.web.core.windows.net
 restaurantlamazone.net
 restoranasamazone.lt
 restore-amazon-account.ambitoinfinito.com
@@ -69525,6 +69626,7 @@ revieiwingamazon.com
 review-362-amazon-aogjnw.a.oabat.de
 review-amazon-sns-mkv85c.a.oabat.de
 review-amazon-uns-awtv30.a.oabat.de
+review-microsoft.com
 review-sellercentral-amazon.co.uk
 review-sellercentral-amazon.com
 reviewamazon.uk
@@ -70983,6 +71085,9 @@ rts-amazonas.com.br
 rtx-3-amazon-location.digitalliftscan.de
 rtzdmymdji.z13.web.core.windows.net
 ru-amazon.com
+rubic-exchange.app
+rubicexchange.app
+rubicexchange.org
 rufusamazon.com
 rugamazon.com
 ruger-p90-magazine-amazon.akupunktur-punkt.de
@@ -71152,6 +71257,7 @@ sacermazae.pro
 sacnhanhsamsung.online
 sacredamazonia.org
 sadamazon.com
+sadepegu.z36.web.core.windows.net
 sadfsdgsdfa01dsfs.z13.web.core.windows.net
 sadikhngggfh.onmicrosoft.com
 safari-amazonas.com
@@ -73211,9 +73317,11 @@ security.email-microsoft.com
 security.m365-microsoft.com
 security.threats122.s3.amazonaws.com
 securityactivity-amazon.69-48-166-124.cprapid.com
+securityalert-microsoft.com
 securityalerts33cswe008.z13.web.core.windows.net
 securityalerts44sdw3xw.z13.web.core.windows.net
 securitybanpro.z13.web.core.windows.net
+securitycenter-microsoft.com
 securitycheckeramazon.primeshoppingapp.com
 securitychecklistamazon.primeshoppingapp.com
 securitylink007.z13.web.core.windows.net
@@ -73389,6 +73497,7 @@ sellercentralamazonyzo.com
 sellercentraldesactivationamazonit.rumo.co.cr
 sellercentraleuropeamazon-com-help-hub-g9ra9lybj3qp27m6.smtp.jetorbit.net
 sellercentralsamazon.com
+sellercentrol-amazon.com
 sellercesnsnstralle-amazon.com
 sellerdiligenceinamazonfbaacquisitions.code.blog
 sellerdiligenceinamazonfbaacquisitions.finance.blog
@@ -73789,6 +73898,7 @@ sharepoint-dataanalysisformatcrew.s3.ap-southeast-2.amazonaws.com
 sharepoint-logindrivetet565ghmicrosoft43dgd.com
 sharepoint-microsoft.co
 sharepoint-microsoft.com
+sharepoint-microsoftonline.com
 sharepoint00aws-s3-amazonaws-com.pages.dev
 sharepoint00aws-s3-amazonaws-com.workers.dev
 sharepointmi00aws-s3-amazonaws-com.pages.dev
@@ -74905,6 +75015,7 @@ staging.amazon-verifcompte.com
 staging.amazon.okupasxx.com
 staging.amazon.ses-iam.com
 staging.login.mmicrosoftonline.com
+staging.replace-windows-today.xyz
 stalkerxx.s3.amazonaws.com
 stamazon.de
 standard-amazon.com
@@ -76667,6 +76778,7 @@ tiktokamazon.shop
 tiktokamazonfinds.com
 tiktokamazons.com
 tiktoktoamazon.com
+timbuktu.exchange
 time-syncmicrosoft.com
 timeamazon.cloakist.site
 timeamazon.com
@@ -77002,6 +77114,7 @@ trademinexchange.com
 trademonad.exchange
 tradeogreexchange.live
 trades.primefxexchange.com
+tradesatoshi.exchange
 tradesmartglobalexchange.com
 tradewiseexchange.net
 tradexchangedesk.com
@@ -77141,6 +77254,7 @@ trilhasdaamazoniaunidade01.sidpedidos.app
 trilhasdaamazoniaunidade02.sidpedidos.app
 trineamazon.com
 trinityamazon.com
+trionexchange.cc
 trip-to-amazon-brazil.com
 tripamazon.com
 triplayamazonico.com
@@ -77176,6 +77290,7 @@ trr0oxskj-plskjj-esxz.s3.us-east-2.amazonaws.com
 truba-amazon.ru
 trucking-amazon.com
 trucksforamazon.com
+true-amazon.com
 true-amazon.tokyo
 trueamazonforest.com
 truee5.z10.web.core.windows.net
@@ -77264,6 +77379,7 @@ tuchpaamazonica.com
 tucompraenamazon.com.ve
 tucsonamazonmotel.com
 tuda01amazon.com
+tudasoge.z27.web.core.windows.net
 tudoamazonia.com
 tudoamazonia.site
 tuecher-amazon.paymento.de
@@ -78084,6 +78200,7 @@ veridicationsys.blob.core.windows.net
 verifamazonupdatepayment.206-189-237-143.cprapid.com
 verificacioninediata1.blob.core.windows.net
 verificaremail.z13.web.core.windows.net
+verificarmicuentaa-microsoft2o26.zya.me
 verification-account.amazon.appleincbabi.net
 verification-amazon.servehttp.com
 verification-amazonaccount.50-6-194-177.cprapid.com
@@ -78591,6 +78708,7 @@ wa8xfz0n82h2jvxvy3bd.s3.eu-central-1.amazonaws.com
 waamazon.com
 waas-amazon.com
 wachosamazon.com
+wafaramuyi.z32.web.core.windows.net
 waffle-amazon.com
 waimao-amazon-proxy.19990504.xyz
 wakeupmicrosoft.com
@@ -79397,12 +79515,14 @@ windows-us-3076433.fyi
 windows-users-downloads.com
 windows-whatsapp.com
 windows-wiki.com
+windows-word-excel.com
 windows-wps.com.cn
 windows-youdao.com
 windows-zoom.us
 windows.apps-connects.com
 windows.center.com-dalf.pw
 windows.checkfedexexp.com
+windows.day
 windows.ddns.me
 windows.direct
 windows.dnsdynamic.net
@@ -79422,6 +79542,7 @@ windows10-support-number.com
 windows10drivers.com
 windows10fix.com
 windows10keysonline.com
+windows10lisans.com
 windows10portal.com
 windows24-kernel.in
 windows32.co.in
@@ -79591,6 +79712,7 @@ windowsupdate.help
 windowsupdate.microsoft.com.13a.co
 windowsupdate.microsoft.com.ssl3.pop3.ru
 windowsupdate.sellclassics.com
+windowsupdate.sh
 windowsupdate.shop
 windowsupdate.site
 windowsupdateblocker.com
@@ -79726,6 +79848,7 @@ worldamazon.org
 worldeconomynrhoa.onmicrosoft.com
 worldlibertyfinancial.exchange
 worldlibertyfinancialexchange.com
+worldlibirtyfinance.exchange
 worldofamazons.dirtydivaent.com
 worldvitaminsamazon.com
 worldwide-amazon.com
@@ -82217,6 +82340,7 @@ yameamazonia.com.br
 yanayacuamazonriver.com
 yasuniamazonlodge.com
 yatoba-amazon.com
+yawafobisi.z5.web.core.windows.net
 yazici-amazontrading.com
 yazicioglusamsung.xyz
 ycare-login.microsoft-pdf.com

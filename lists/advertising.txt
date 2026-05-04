@@ -15626,6 +15626,7 @@ ads.onetag-sys.com
 ads.openx.net
 ads.permutive.com
 ads.pubmatic.com
+ads.pubmine.com
 ads.quantserve.com
 ads.rubiconproject.com
 ads.samsung.com

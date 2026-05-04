@@ -38,6 +38,7 @@ browsercraft.com
 browsergame-base.de
 browsergame-index.de
 browsergames.de
+browsergames.gg
 browsergames.info
 browsergames.spielen.de
 browsergameskostenlos.com
@@ -78,10 +79,12 @@ de.elvenar.com
 de.forgeofempires.com
 de.forum.grepolis.com
 de.grepolis.com
+de.kapihospital.com
 de.onlygames.io
 de.puzzle-minesweeper.com
 de.tribalwars2.com
 de.twstats.com
+de.upjers.com
 de0.elvenar.com
 de0.forgeofempires.com
 de0.grepolis.com
@@ -97,6 +100,7 @@ de70.grepolis.com
 de89.grepolis.com
 desktop-tower-defense-defence-hard-strategy-game.en.softonic.com
 die-staemme.de
+diesiedleronline.de
 divoke-kmene.sk
 doodlegames.org
 eaglercraft.com
@@ -253,6 +257,8 @@ mmommorpg.de
 mobygames.com
 morterra.com
 mulegend.gtarcade.com
+myfreezoo.de
+mylittlefarmies.upjers.com
 n10.en3.grepolis.com
 newgrounds.com
 ninjakiwi.com
@@ -286,6 +292,7 @@ pl.twstats.com
 pl47.grepolis.com
 plarium.com
 play-games.com
+play.de
 play.forgeofempires.com
 play.heroesgame.com
 play.ogame.gameforge.com
@@ -379,6 +386,7 @@ the-west.de
 the-west.net
 the-west.wiki
 thegamer.com
+top5-onlinegames.de
 topbrowsergames.de
 topspiele.de
 tower-defense-online-spielen.de
@@ -431,6 +439,7 @@ webmulator.com
 wettbasis.com
 whackywins.com
 wiki.tribalwars2.com
+wurzelimperium.de
 www.1000mines.com
 www.1001spiele.at
 www.1001spiele.de
@@ -465,6 +474,7 @@ www.crazygames.com
 www.crazymonkeygames.com
 www.creeptd.com
 www.die-staemme.de
+www.diesiedleronline.de
 www.divoke-kmene.sk
 www.elvenar-fan-forum.de
 www.flashlegacy.com
@@ -512,6 +522,7 @@ www.mmobomb.com
 www.mmommorpg.de
 www.mobygames.com
 www.morterra.com
+www.myfreezoo.de
 www.newgrounds.com
 www.novumgames.com
 www.numuki.com
@@ -525,6 +536,7 @@ www.panzerrush.com
 www.pcgamesn.com
 www.peekgames.com
 www.play-games.com
+www.play.de
 www.playinternet.de
 www.playit-online.de
 www.playmox.com
@@ -561,6 +573,7 @@ www.techradar.com
 www.the-west.de
 www.the-west.net
 www.thegamer.com
+www.top5-onlinegames.de
 www.topbrowsergames.de
 www.topspiele.de
 www.tower-defense.net
@@ -580,6 +593,7 @@ www.twstats.com
 www.unblockedgame.io
 www.webmulator.com
 www.wettbasis.com
+www.wurzelimperium.de
 www.x-oo.com
 www.y8.com
 www.zylom.com

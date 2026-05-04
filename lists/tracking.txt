@@ -2004,6 +2004,7 @@ aperture-ingestion-api.analytics.console.aws.a2z.com
 aperture-rendering-api.analytics.console.aws.a2z.com
 aperture-test.analytics.console.aws.a2z.com
 aperture.analytics.console.aws.a2z.com
+apester.com
 api-analytics-cloud1.pubmatic.com
 api-analytics-prd.pelcro.com
 api-analytics-qa.samsungknox.com
@@ -2965,6 +2966,7 @@ duluthtrading-mkt-prod2-lb.campaign.adobe.com
 duo.corp.outbrain.com
 dwwhrzywmfekxt.apiweb248.theappanalytics.com
 dyn.emetriq.de
+dynamic.criteo.com
 e-distance.googletagmanager.com
 e.outbrain.com
 e2.panerabread.com.cname.campaign.adobe.com
@@ -4583,6 +4585,7 @@ mgm-mkt-prod1-cus.campaign.adobe.com
 mgm.campaign.adobe.com
 mi9.campaign.adobe.com
 michaelsanalytics.everestengagement.com
+micro.rubiconproject.com
 microsoft-adsol-uk.celtra.com
 microsoft-aunz-d.openx.net
 microsoft-axum-2010.apponic.com
@@ -6356,6 +6359,7 @@ static-cms.chartbeat.com
 static-test.outbrain.com
 static-uk.chartbeat.com
 static.analytics.adkernel.com
+static.apester.com
 static.blog.chartbeat.com
 static.chartbeat.com
 static.cloudflareinsights.com
@@ -6511,6 +6515,7 @@ t.noreply.fnb.co.za.cname.campaign.adobe.com
 t.notification.capitalgroup.com.cname.campaign.adobe.com
 t.outbrain.com
 t.physicians-email.sanofi.us.cname.campaign.adobe.com
+t.pubmine.com
 t.services.diamond.co.uk.cname.campaign.adobe.com
 t.support.chase.co.uk.cname.campaign.adobe.com
 t.support.diamond.co.uk.cname.campaign.adobe.com
