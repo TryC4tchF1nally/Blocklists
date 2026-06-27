@@ -15580,6 +15580,7 @@ ads-direct-wc.adaptv.advertising.com
 ads-ec.adaptv.advertising.com
 ads-eu.adaptv.advertising.com
 ads-icl.googleusercontent.com
+ads-inmobi-comtm.trafficmanager.net
 ads-intl.everesttech.net
 ads-nc.dotomi.com
 ads-test.adaptv.advertising.com
@@ -17655,6 +17656,7 @@ cancertreatmentcentersofamericainc.demdex.net
 canda.demdex.net
 candabe.widget.criteo.com
 candb.demdex.net
+candellume.shop
 cannes.gumgum.com
 cannes.justpremium.com
 canvas-encoder.showheroes.com
@@ -21818,6 +21820,7 @@ les-hk2.everesttech.net
 les-or1.everesttech.net
 les-va5.everesttech.net
 les.everesttech.net
+lfvpksanpg.com
 li.pxl.ace.advertising.com
 lib.adnxs.com
 libride.widget.criteo.com
@@ -22157,6 +22160,7 @@ mcdp.outbrain.com
 mcg-ads.inmobi.com
 mcs.eyereturn.com
 mcsspx1lcsv4y5gqf0gxzwc0ornbb1504909810.nuid.imrworldwide.com
+mdtb.ads.aps.amazon-adsystem.com
 me.ads.justpremium.com
 media-ams5.msg.dotomi.com
 media-dc6.msg.dotomi.com
@@ -24350,6 +24354,7 @@ sales-live-events1.use.dynamicyield.com
 sales.brightcove.com
 sales.gumgum.com
 sales.outbrain.com
+salescobbing.shop
 salesforce.122.2o7.net
 salesforcecom.demdex.net
 salesforcecom.tt.omtrdc.net
@@ -24392,6 +24397,7 @@ sandbox.vip.uj1.inmobi.com
 santander-open-academy.cip.test.ajo.adobe.com
 saopmqofmrxxz7oli7swsnvvonjzn1513535721.nuid.imrworldwide.com
 sapatoru.widget.criteo.com
+sardonic-return.com
 sas-api.rubiconproject.com
 satc.demdex.net
 saturnde.widget.criteo.com
@@ -25565,6 +25571,7 @@ tpt-gateway-us.api.kochava.com
 tpt.dotomi.com
 tpt.mediaplex.com
 tptracker.showheroes.com
+tpzuipdpg.com
 tqwlcoerdfhjaohx0fhlxusbcnixc1507543750.nuid.imrworldwide.com
 tr-gmtdmp.mookie1.com
 tr-v1.presage.io
@@ -26210,6 +26217,7 @@ vivaki.demdex.net
 vkvkn4idx2nhxnqs8mhibycs0kdvn1507014591.nuid.imrworldwide.com
 vl0s7-7icvf.ads.tremorhub.com
 vlab8us.ajo8us.adls.adobevlab.com
+vliaflkwqwpg.com
 vlibs.advertising.com
 vlyby.com
 vmwareinc.demdex.net
@@ -27004,6 +27012,7 @@ yuwvkeaje1zksz2j9x4zsmmgfev9q1510351550.nuid.imrworldwide.com
 ywg5xoxh7mabrt78wp2gsgbfzzwgh1507574231.nuid.imrworldwide.com
 ywgjpgwxrgpeiqrptkmgevrvwix4l1509914071.nuid.imrworldwide.com
 yxxuybaufikz8cesrmtswjhmqgyp31516221461.nuid.imrworldwide.com
+yyeiostdapg.com
 z-eu.amazon-adsystem.com
 z-fe.amazon-adsystem.com
 z-in.amazon-adsystem.com

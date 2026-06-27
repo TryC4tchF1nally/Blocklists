@@ -2584,6 +2584,7 @@ citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
 citrixanalyticseh2.servicebus.windows.net
 citrixanalyticseh3-alias.servicebus.windows.net
+citrixanalyticseh3.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
 citrixanalyticseheu-alias.servicebus.windows.net
@@ -5177,6 +5178,7 @@ plakatkostenplaner.tools.stroeer.de
 platform.gameanalytics.com
 play.google.skechup.com
 plbusiness.samsung.com
+pluginboutique.postaffiliatepro.com
 plus.smtp.mail.googlemaail.com
 po.googlemaail.com
 po.googlesettings.com
@@ -6821,6 +6823,7 @@ ups.xplosion.de
 upu.samsungelectronics.com
 uralr.gamma.concierge.analytics.console.aws.a2z.com
 ureca.samsungapps.com
+ureca.samsungapps.com.ad.mexnet.de
 urlwww--google--com.rtrk.com
 us-analytics.sam4m.com
 us-analytics.sync.tv
@@ -6854,6 +6857,7 @@ us-gov-west-1.test.pr.analytics.console.aws.a2z.com
 us-ic3.events.data.microsoft.com
 us-mesh.events.data.microsoft.com
 us-mobile.events.data.microsoft.com
+us-report.gras.samsungdm.com
 us-teams.events.data.microsoft.com
 us-v10.events.data.microsoft.com
 us-v10c.events.data.microsoft.com
@@ -6874,6 +6878,7 @@ us-west-2.target.aws.amazon.com
 us-west-2.test.pr.analytics.console.aws.a2z.com
 us-west-2.test.pw.analytics.console.aws.a2z.com
 us-west-google-rtb.quantserve.com
+us.event-tracking.samsung.com
 us.pipe.aria.microsoft.com
 us.vortex-win.data.microsoft.com
 us1.siteimproveanalytics.com
